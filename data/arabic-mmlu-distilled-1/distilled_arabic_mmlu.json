@@ -1,0 +1,1442 @@
+[
+    {
+        "question": "من أمثلة براكين قارة أفريقيا:-",
+        "choices": [
+            "استرامبولي.",
+            "فيزوف .",
+            "كلمنجارو.",
+            "سانت هلين ."
+        ],
+        "answer": 2,
+        "reasoning": "السؤال يطلب تحديد بركان يقع في قارة أفريقيا. بالنظر إلى الخيارات المعطاة:\n- استرامبولي وفيزوف يقعان في إيطاليا (أوروبا).\n- سانت هلين يقع في الولايات المتحدة الأمريكية (أمريكا الشمالية).\n- كلمنجارو يقع في تنزانيا (أفريقيا).\nلذلك، المثال الصحيح لبركان في قارة أفريقيا هو كلمنجارو.",
+        "solution": "c"
+    },
+    {
+        "question": "أ هوب لٍ لا نٍطبق علي قوى الفعل و رد الفعل ؟",
+        "choices": [
+            "قىة الفعل و قىة رد الفعل تؤثران ف جسميه مختلفيه",
+            "قىة الفعل تسبوي قىة رد الفعل",
+            "قىة الفعل و قىة رد الفعل تؤثران ف وفس الجسم",
+            "قىة الفعل تعبكس قىة رد الفعل"
+        ],
+        "answer": 2,
+        "reasoning": "قانون نيوتن الثالث للحركة ينص على أن لكل فعل رد فعل مساوٍ له في المقدار ومعاكس له في الاتجاه. الأهم من ذلك، أن قوة الفعل وقوة رد الفعل تؤثران دائمًا على جسمين مختلفين. الخيار (أ) يذكر أنهما تؤثران على جسمين مختلفين، وهذا صحيح. الخيار (ب) يذكر أنهما متساويتان في المقدار، وهذا صحيح. الخيار (د) يذكر أنهما متعاكستان في الاتجاه، وهذا صحيح. الخيار (ج) يذكر أنهما تؤثران على نفس الجسم، وهذا يتعارض مع قانون نيوتن الثالث وهو العبارة التي لا تنطبق على قوى الفعل ورد الفعل.",
+        "solution": "c"
+    },
+    {
+        "question": "يعبر نشيدنا عن نضال شعبنا",
+        "choices": [
+            "صح",
+            "خطأ",
+            null,
+            null
+        ],
+        "answer": 0,
+        "reasoning": "الأناشيد الوطنية غالباً ما تُصاغ لتعكس تاريخ الأمة وقيمها وتضحياتها ونضالها من أجل الحرية أو الاستقلال أو الوحدة. لذلك، من الشائع جداً أن يتضمن النشيد الوطني إشارات إلى نضال الشعب وتحدياته وانتصاراته.",
+        "solution": "a"
+    },
+    {
+        "question": "إن التعبير العام لجميع اشكال صفقات العمل على الانترنت هو :",
+        "choices": [
+            "االعمال االلكترونية",
+            "شبكة التجارة",
+            "شبكة االعمال",
+            "التجارةااللكترونية"
+        ],
+        "answer": 3,
+        "reasoning": "المصطلح \"الأعمال الإلكترونية\" (E-business) هو المفهوم الأشمل الذي يغطي جميع جوانب إدارة وتشغيل الأعمال باستخدام التقنيات الرقمية والإنترنت، بما في ذلك \"التجارة الإلكترونية\" (E-commerce) التي تركز بشكل أساسي على عمليات البيع والشراء. السؤال يطلب التعبير العام لـ *جميع أشكال* صفقات العمل على الإنترنت، والأعمال الإلكترونية تشمل التجارة الإلكترونية بالإضافة إلى عمليات أخرى مثل خدمة العملاء عبر الإنترنت، وإدارة سلاسل الإمداد، والتسويق الرقمي، والعمليات الداخلية للشركة التي تتم إلكترونياً. لذلك، فإن \"الأعمال الإلكترونية\" هي المصطلح الأكثر عمومية وشمولاً.",
+        "solution": "a"
+    },
+    {
+        "question": "من هو الصحابي الذي كانت تستحي منه ملائكة السماء؟",
+        "choices": [
+            "علي بن أبي طالب",
+            "عثمان بن عفان",
+            "عمر بن الخطاب",
+            "أبو بكر الصديق"
+        ],
+        "answer": 1,
+        "reasoning": "السؤال يطلب تحديد الصحابي الجليل الذي وُصف بأن ملائكة السماء كانت تستحي منه. ورد في الحديث النبوي الشريف أن النبي محمد صلى الله عليه وسلم قال عن عثمان بن عفان رضي الله عنه: \"أَلَا أَسْتَحِي مِنْ رَجُلٍ تَسْتَحِي مِنْهُ الْمَلَائِكَةُ؟\". هذا الحديث، الذي رواه مسلم وغيره، يُبيّن أن عثمان بن عفان هو المقصود بهذا الوصف لشدة حيائه وأدبه. بناءً على هذا الحديث الصحيح، تكون الإجابة الصحيحة هي عثمان بن عفان.",
+        "solution": "b"
+    },
+    {
+        "question": "المقاومة الكهربائية لمصباح مكتوب عليه 220 فولت ، 100 واط  هي",
+        "choices": [
+            "220 أوم",
+            "202 أوم",
+            "100 أوم",
+            "484 أوم"
+        ],
+        "answer": 3,
+        "reasoning": "لحساب المقاومة الكهربائية (R) للمصباح، نستخدم العلاقة التي تربط بين القدرة الكهربائية (P) وفرق الجهد (V) والمقاومة (R). العلاقة هي P = V^2 / R. معطى لدينا أن V = 220 فولت و P = 100 واط. لحساب R، نعيد ترتيب المعادلة لتصبح R = V^2 / P. بالتعويض بالقيم المعطاة: R = (220)^2 / 100 = (220 * 220) / 100 = 48400 / 100 = 484 أوم. هذه القيمة تطابق الخيار d.",
+        "solution": "d"
+    },
+    {
+        "question": "معنى كلمة الجواري في قول الشاعر وأرسينا على الماء الجواري:",
+        "choices": [
+            "الخادمات",
+            "السفن",
+            "الجبال",
+            "المنازل"
+        ],
+        "answer": 1,
+        "reasoning": "كلمة \"الجواري\" في اللغة العربية قد تعني \"الخادمات\" (جمع جارية)، ولكن في سياق الشعر والقرآن الكريم، وعندما ترتبط بالماء والإرساء (الرسو)، فإنها غالباً ما تشير إلى السفن التي تجري فوق الماء. في عبارة \"وأرسينا على الماء الجواري\"، الفعل \"أرسينا\" يعني التوقف والتثبيت في الماء، وهو ما ينطبق على السفن. لذلك، المعنى الأنسب هنا هو \"السفن\". الخيارات الأخرى (الخادمات، الجبال، المنازل) لا تتناسب مع سياق الإرساء على الماء.",
+        "solution": "b"
+    },
+    {
+        "question": "اختر اسم الاشارة المناسب لوضعه بدلاً من [فراغ] في الجملة التالية:\nما [فراغ]. ؟ (قطار)",
+        "choices": [
+            "هذا",
+            "هذه",
+            null,
+            null
+        ],
+        "answer": 0,
+        "reasoning": "كلمة 'قطار' هي اسم مذكر مفرد. اسم الإشارة المناسب للمفرد المذكر القريب هو 'هذا'. لذلك، يتم استخدام 'هذا' للإشارة إلى القطار في السؤال.",
+        "solution": "a"
+    },
+    {
+        "question": "أي المواد التالية يمكن مغنطتها؟",
+        "choices": [
+            "النيكل",
+            "الألمونيوم",
+            "الذهب",
+            "النحاس"
+        ],
+        "answer": 0,
+        "reasoning": "المواد التي يمكن مغنطتها بسهولة هي المواد الفيرومغناطيسية. من بين الخيارات المذكورة، النيكل هو أحد المواد الفيرومغناطيسية المعروفة، إلى جانب الحديد والكوبالت. الألمونيوم مادة بارامغناطيسية (تنجذب بشكل ضعيف للمغناطيس)، بينما الذهب والنحاس مواد ديامغناطيسية (تتنافر بشكل ضعيف مع المغناطيس). لذلك، النيكل هو الخيار الصحيح.",
+        "solution": "a"
+    },
+    {
+        "question": "أول حرف من اسمي حرف (ب) من أنا :",
+        "choices": [
+            "بقرة",
+            "أسد",
+            "حصان",
+            "ثور"
+        ],
+        "answer": 0,
+        "reasoning": "السؤال يطلب تحديد الاسم الذي يبدأ بحرف الباء (ب). بالنظر إلى الخيارات المعطاة:\nأ. بقرة: تبدأ بحرف الباء (ب).\nب. أسد: تبدأ بحرف الألف (أ).\nج. حصان: تبدأ بحرف الحاء (ح).\nد. ثور: تبدأ بحرف الثاء (ث).\nالخيار الوحيد الذي يبدأ بحرف الباء هو (أ) بقرة.",
+        "solution": "a"
+    },
+    {
+        "question": "الهلال الخصيب وحده جغرافيه تشمل كل من (الاردن ، سوريا ، لبنان ، فلسطين )",
+        "choices": [
+            "نعم",
+            "لا",
+            null,
+            null
+        ],
+        "answer": 1,
+        "reasoning": "الهلال الخصيب هو مصطلح جغرافي يشير إلى منطقة تاريخية في الشرق الأوسط. في حين أن الأردن وسوريا ولبنان وفلسطين تقع ضمن هذه المنطقة، إلا أن الهلال الخصيب يشمل أيضاً بلاد ما بين النهرين (العراق حالياً) وأحياناً أجزاء من مصر وتركيا. وبالتالي، فإن حصر الهلال الخصيب في الدول الأربعة المذكورة فقط هو معلومة غير مكتملة أو غير دقيقة.",
+        "solution": "b"
+    },
+    {
+        "question": "نزل القرآن الكريم على سيدنا :",
+        "choices": [
+            "محمد عليه الصلاة والسلام",
+            "إبراهيم عليه السلام",
+            "يحيى عليه السلام",
+            "سليمان عليه السلام"
+        ],
+        "answer": 0,
+        "reasoning": "السؤال يطلب تحديد النبي الذي أُنزل عليه القرآن الكريم. وفقًا للعقيدة الإسلامية، القرآن الكريم هو كلام الله الذي تم إنزاله على خاتم الأنبياء والمرسلين، سيدنا محمد صلى الله عليه وسلم، بواسطة الملاك جبريل عليه السلام. الأنبياء الآخرون المذكورون في الخيارات هم أنبياء الله المكرمون، لكن لكل منهم رسالة وكتاب مختلف أو لم يُذكر نزول كتاب محدد عليهم بالاسم كالقرآن. إبراهيم عليه السلام نزلت عليه الصحف، بينما يحيى وسليمان عليهما السلام كانا من أنبياء بني إسرائيل ولم ينزل عليهما القرآن. لذلك، فإن النبي الذي نزل عليه القرآن الكريم هو محمد عليه الصلاة والسلام.",
+        "solution": "a"
+    },
+    {
+        "question": "بنايات ضخمة بناها قدماء المصريين في الفترة ما بين(٢٦٣٠_١٥٣٠)ق.م لاتخاذها مدافن للملوك هذا معنى ل: ",
+        "choices": [
+            "أبو الهول ",
+            "المسلات ",
+            "المنازل ",
+            "الأهرامات "
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 28\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "الأسباب البشرية لتدهور التربة هي ….. ",
+        "choices": [
+            "الرعي الجائر ",
+            "الزحف العمراني على الأراضي الزراعية  ",
+            "الحراثة بشكل متعامد مع خطوط الكنتور ",
+            "جميع ماسبق"
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 28\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "برنامج البوربوينت يستخدم لاستعراض الملفات والمجلدات",
+        "choices": [
+            "صح",
+            "خطأ",
+            null,
+            null
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 28\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "يوجد جبل مونت بلان في دولة",
+        "choices": [
+            "المانيا",
+            "أسبانيا ",
+            "فرنسا",
+            "ايطاليا"
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 28\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "واحدة من الآتية ليست من الإقاليم المناخية السائدة في الأردن :",
+        "choices": [
+            "مناخ البحر المتوسط",
+            "المناخ المداري",
+            "المناخ الصحراوي",
+            "الاقليم الغوري"
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 28\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "مجموعة إعدادات ذات اسم محدد تشمل مظهر سطح المكتب هي: ",
+        "choices": [
+            "خلفية سطح المكتب ",
+            "شاشة التوقف ",
+            "النافذة",
+            "النسق"
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 28\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "س431:زيت الوقود الذي يستخدم في حرقه لتوليد بخار الماء المستخدم في إدارة محركات وتوربينات بخارية في محطات توليد الكهرباء يسمى…؟",
+        "choices": [
+            "الكيروسين",
+            "البوتجاز",
+            "المازوت",
+            "الجازولين"
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 28\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "إختار الإجابة الصحيحة بنعم أو لا مما يأتي:\n\nالأنظمة المفتوحة لا تتفاعل مع البيئة المحيطة.",
+        "choices": [
+            "نعم",
+            "لا",
+            null,
+            null
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 28\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "إختار الإجابة الصحيحة بنعم أو لا مما يأتي:\n\nالتركيز على الحافز المادي و إهمال حاجات و دوافع الإنسان الأخريمن الانتقادات التى وجهت للمدرسة الكلاسيكية",
+        "choices": [
+            "نعم",
+            "لا",
+            null,
+            null
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 27\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "إن العلاقات الإنسانية مستقرة على قواعد صلبة ... ما علامة إعراب \" العلاقات \" ؟",
+        "choices": [
+            "الفتحة",
+            "الضمة",
+            "الألف",
+            "الكسرة"
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 27\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "تسمى المرافق التي تبنيها وتشيدها الدولة من أجل المصلحة العامة بـ...",
+        "choices": [
+            "المرافق العامة",
+            "المرافق خاصة",
+            "المرافق الحكومية",
+            null
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 27\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "من فوائد النجوم كما وردت في سورة الملك: ",
+        "choices": [
+            "تزين السماء ",
+            "تحرق الشياطين ",
+            "تضيئ النجوم ",
+            "جميع ما ذكر "
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 27\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "تفتقر الوجبات السريعة إلى كثير من العناصر الغذائية المهمة الضرورية خاصة ……….",
+        "choices": [
+            "الدهون",
+            "الكربوهيدرات ",
+            "البروتينات",
+            "الألياف "
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 27\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "هو عقد تأمين بين صاحب وثيقة التأمين وشركة التأمين.  ",
+        "choices": [
+            "التأمين البحري ",
+            "التأمين الصحي  ",
+            "تأمين الحياة ",
+            "التأمين من الحرائق "
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 27\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "كم بت يوجد في البايت الواحد",
+        "choices": [
+            "4",
+            "8",
+            "1024",
+            "30"
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 27\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "ما اسم والدة مريم العذراء؟",
+        "choices": [
+            "زينب",
+            "حنة",
+            "آمنة",
+            "خديجة"
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 27\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "اقرأ الفقرة التالية ثم اختر البديل المناسب لـ [فراغ] الذي يكمل الجملة بشكل صحيح\n يعد الطهطاوي رائدا من رواد إصلاح [فراغ] في مصر.\n\nContext: رفاعة رافع الطهطاوي أحد مؤسسي الفكر الحديث فى مصر، وهو من الرواد الأوائل في إصلاح التعليم في مصر، تبنى حركة الترجمة المنظمة، وأنشأ مدرسة الألسن، وبعث حياة جديدة في التعليم والصحافة. وُلد بمدينة طهطا بمحافظة سوهاج، حيث نشأ في أسرة شريفة النسب، لما بلغ رفاعة السادسة عشرة من عمره التحق بالأزهر، فتتلمذ على يد عدد من علماء الأزهر، وبعد أن أمضى في الأزهر ست سنوات، جلس للتدريس فيه، ثم ترك التدريس بعد عامين والتحق بالجيش المصري النظامي الذي أنشأه محمد علي إماماً وواعظاً لإحدى فرقه. في سنة 1826 قررت الحكومة المصرية إيفاد بعثة عِلْمِيَّة إلى فرنسا لدراسة العلوم والمعارف الإنسانية، وقرر محمد علي أن يصحبهم ثلاثة من علماء الأزهر الشريف لإمامتهم في الصلاة ووَعْظِهم وإرشادهم. وكان رفاعة الطهطاوي واحداً من هؤلاء الثلاثة، ورشحه لذلك شيخه حسن العطار. تم ضم رفاعة إلى البعثة التعليمية، وتخصص في الترجمة، ثم عاد الطهطاوي إلى مصر سنة 1831، وكانت أولى الوظائف التي تولاها العمل مترجماً في مدرسة الطب، ثم نقل عام كان رفاعة الطهطاوي يأمل في إنشاء مدرسة عليا لتعليم اللغات الأجنبية؛ فتقدم باقتراحه إلى محمد علي ونجح في إقناعه بإنشاء مدرسة للمترجمين عُرفت بمدرسة الألسن، مدة الدراسة بها خمس سنوات وقد تخرجت الدفعة الأولى في المدرسة في 1839، إلا أنه عندما تولى الخديوي عباسُ الأول الحكمَ أغلق المدرسة وأمر بإرسال رفاعة إلى السودان. بعد وفاة الخديوي عباس عاد رفاعة الى القاهرة في 1854، وتولى نظارة المدرسة الحربية، ثم سعى إلى إنجاز أول مشروع لإحياء التراث العربي الإسلامي، ونجح في إقناع الحكومة بطبع عدة كتب من عيون التراث العربي في عهد الخديوي إسماعيل تولى الطهطاوي نظارة الترجمة عام 1863 لترجمة القوانين الفرنسية. ثم عُهد إلى الطهطاوي إصدار مجلة روضة المدارس عام 1870، وظل يكتب فيها مباحث ومقالات حتى توفي.",
+        "choices": [
+            "التعليم",
+            "الجيش",
+            "الأزهر",
+            "الجامعة"
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 27\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "النهر الذي يجري في قارة أمريكا الشمالية هو نهر :",
+        "choices": [
+            "الفولقا",
+            "الدانوب",
+            "الأمازون",
+            "الميسيسبي"
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 26\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "إختار الإجابة الصحيحة بنعم أو لا مما يأتي:\n\nالمهارات الإدارية مطلوب توافرها في مديري الإدارة العليا فقط ",
+        "choices": [
+            "نعم",
+            "لا",
+            null,
+            null
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 26\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "\n\"الطالب عسى أن يتفوق\"، \"عسى أن يتفوق الطالب\".\nالفعل (عسى) في الجملتين بالترتيب ...",
+        "choices": [
+            "تام ـ ناقص.",
+            "ناقص ـ تام.",
+            "تام ـ تام.",
+            "ناقص ـ ناقص."
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 26\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "أسلوب في التفكير، يقوم على التفاؤل والأمل والخير والمحبة، والبعد عن اليأس والقنوط والسلبية، لتحقيق\nالسعادة في الدارين",
+        "choices": [
+            "التفكير الناقد",
+            "التفكير الفاعل",
+            "لتفكير الإيجابي",
+            null
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 26\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": " ( يقول المؤذن في اذان الفجر ) الصلاة خير من النوم ",
+        "choices": [
+            "صح",
+            "خطأ",
+            null,
+            null
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 26\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "اقرأ النص الشعري التالي ثم اختر البديل المناسب لـ [فراغ] الذي يكمل الجملة بشكل صحيح\n كلمة (حَسَبٌ) مرفوعة بالضمة لأنها[فراغ].\n\nContext: ذَرِيني لِلْغِنَى أَسْعَى فَإنِّي ــــــــــــــــــــــــــ رَأَيْتُ النَّاسَ شَرُّهُمُ الْفَقِيرُ وَأَدْناهُم وَأَهْوَنُهُم عَلَـيْـــهِم ــــــــــــــــــــــــــ وَإنْ أَمْسَى لَهُ حَسَبٌ وَخِيرُ وَيُلْقَى ذَا الْـغِنَـى وَلَـهُ جَلالٌ ــــــــــــــــــــــــــ يَكادُ فُــؤادُ لاقِــيه يَـطِـيـرُ",
+        "choices": [
+            "مبتدأ",
+            "اسم كان",
+            "خبر",
+            "خبر إن"
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 26\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "أي من الأسماء التاليه تكن صفة القربى للنبي محمد صلى الله عليه وسلم باعتباره\nعَمُّهُ",
+        "choices": [
+            "عبد الله",
+            "رقية",
+            "حمزة",
+            "إبراهيم"
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 26\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "رسم يوضح العلاقة بين الأسطح و الأوجه الظاهرة للمجسم.  ",
+        "choices": [
+            "الاسقاط ",
+            "الخطوط ",
+            "المنظور ",
+            "متوازي الأضلاع "
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 25\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "نأكل أوراق الملوخية",
+        "choices": [
+            "صح",
+            "خطأ",
+            null,
+            null
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 25\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "منطقة المنصة في سكراتش تضم جميع الكائنات المستخدمة في المشروع.",
+        "choices": [
+            "صح",
+            "خطأ",
+            null,
+            null
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 25\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "ن أ س : ن ┌ هو القسط الوحید الصافى لوثیقة",
+        "choices": [
+            "تأمین مؤقت",
+            "تأمین مدى الحیاة",
+            "تأمین رأس مال مؤجل",
+            "تأمین مختلط"
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 25\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "تصدر رخص السوق من الفئات الرابعة والخامسة والسادسة لمدة :",
+        "choices": [
+            "ثلاث سنوات\n",
+            "خمس سنوات",
+            " سبع سنوات",
+            "عشر سنوات"
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 25\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "اعطاء الاولویة یساعد الاخرین على القیادة بأمان.",
+        "choices": [
+            "نعم",
+            "لا",
+            null,
+            null
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 25\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "من الفئات المستخدمه للقوائم المالٌة والتى تحتاج إلى معلومات محاسبٌة تساعدهم على تحدٌد قدرة المنشؤة على السداد فى المواعٌد المتفق علٌها",
+        "choices": [
+            "المقرضون",
+            "الموردون",
+            "كل ما سبق",
+            "الشىء مما سبق"
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 25\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "ظهر التجنيد الإجباري في العهد",
+        "choices": [
+            "الراشدي ",
+            "الاموي ",
+            "العباسي",
+            "العثماني "
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 25\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "اقرأ النص القصير التالي ثم اختر البديل المناسب لـ [فراغ] الذي يكمل الجملة بشكل صحيح\n الفكرة الرئيسة فى الفقرة الرابعة [فراغ]. بين الزوجين.\n\nContext: مُشْكِلَاتُ الْحَيَاةِ الزَّوْجِيَّةِ فِي الْحَيَاةِ الزَّوْجِيَّةِ خَيْرٌ كَثِيرٌ لِلزَّوْجِ، وَللزَّوْجَةِ، وَلِلْأًوْلَادِ وَمَعَ ذَلِكَ تَظْهَرُ أَحْيَانًا بَعْضُ الْمُشْكِلاتِ فِي حَيَاةِ الزَّوْجَيْنِ عَلَيْنَا أَنْ نَعْرِفَ هَذِهِ الْحَقِيقَةَ قَبْلَ الزَّوَاجِ نَعَمْ قَدْ تَحْدُثُ خِلَافَاتٌ بَيْنَ الزَّوْجَيْنِ، وَلَيْسَتْ هَذِهِ هِيَ الْمُشْكِلَةُ، وَإِنَّمَا الْمُشْكِلَةُ أَنْ نَعْجَزَ عَنْ حَلِّ تِلْكَ الْمُشْكِلاتِ. يَعْتَقِدُ كَثِيرٌ مِنَ الشَّبَابِ أَنَّ الْحَيَاةَ الزَّوْجِيَّةَ بِلَا مُشْكِلاتٍ، فَإذا قَابَلُوا مُشْكِلَةً ثَارُوا، وَفَكَّرُوا فِي الطَّلاقِ، عَلَى الشَّبَابِ أَنْ يَعْرِفُوا أَنَّ الحَياةَ الزَّوْجِيَّةَ رِحْلَةٌ طَوِيلَةٌ، وَأَنَّ السَّبِيلَ إِلَى النَّجَاحِ فِي الْحَيَاةِ الزَّوْجِيَّةِ، هُوَ الْحِوَارُ. لِمَاذَا تَحْدُثُ مُشْكِلَاتٌ بَيْنَ الزَّوْجَيْنِ مِنْ وَقْتٍ لَآخَر؟ يَعُودُ السَّبَبُ إِلَى وُجُودِ اِخْتِلافَاتٍ كَثِيرَةٍ بَيْنَ شَخْصِيَّةِ الرَّجُلِ وَشَخْصِيَّةِ الْمَرْأَةِ وَتَظْهَرُ هَذِهِ الاخْتِلافَاتُ بَعْدَ مَرْحَلَةِ الطُّفُولَةِ، وَتَزِيدُ فِي مَرْحَلَةِ الشَّبَابِ فَالرَّجُلُ يُحِبُّ أَشْيَاءَ لاتُحِبُّهَا الْمَرْأَةُ، وَالْمَرْأَةُ تُحِبُّ أَشْيَاءَ لا يُحِبُّهَا الرَّجُلُ. وَعِنْدَمَا تَظْهَرُ المُشْكِلاتُ فِي الْحَيَاةِ الزَّوْجِيَّةِ يَأْخُذُ الزَّوْجَانِ فِي الشَّكْوَى يَشْكُو الزَّوْجُ فَيَقُولُ: زَوْجَتِي لَا تَسْتَمِعُ إِلَيّ، وَتَتَكَلَّمُ مَعَ صَدِيقَاتِهَا فِي الهَاتِفِ كَثِيرًا، وَتَذْهَبُ إِلَى السُّوقِ كَثِيرًا وَتَشْتَرِي أَشْياءَ لا نَحْتَاجُ إِلَيْهَا، وَتَشْكُو الزَّوْجَةُ فَتَقُولُ: زَوْجِي يَتَكَلَّمُ طُولَ الوَقْتِ فِي السِّيَاسَةِ وَالرِّيَاضَةِ، وَيَقْضِي وَقْتًا طَوِيلا خَارِجَ البَيْتِ، وَعِنْدَمَا يَكُونُ فِي الْبَيْتِ يَقْضِي الوَقْتَ فِي قِرَاءَةِ الصُّحِفِ وَالمَجَلَّاتِ أَوْ مَعَ الحَاسُوبِ.",
+        "choices": [
+            "الاختلافات",
+            "التشابهات",
+            "الشكاوى",
+            "أسباب الشكاوى"
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 24\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "\"وكنا في الحياة بناة مجد            وقضينا  معيشتنا نضالا \" قائل هذا البيت الشاعر:",
+        "choices": [
+            "عبد العزيز عتيق",
+            "المتنبي",
+            "محمد منيزل النعيمي",
+            "محمد سامي البارودي"
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 24\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "تقاس درجة الحرارة بجهاز: ",
+        "choices": [
+            "الباروميتر",
+            "الثيرموميتر",
+            "الانوميتر",
+            "السهم الدوار "
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 24\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "\tالثمر ناضج  في الحديقة  الخبر في الجملة السابقة هو: ",
+        "choices": [
+            " الحديقة",
+            "الثمر",
+            "ناضج",
+            "في"
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 24\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "السلطة آلتي تتولها المحاكم باختلاف انواعها هي :",
+        "choices": [
+            "التنفيذية",
+            "التشريعية",
+            "القضائية",
+            "العسكرية"
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 24\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "يحق للمتهم المعتقل بمجرد مثوله أول مرة أمام قاضي التحقيق أن:",
+        "choices": [
+            "يتصل بحرية بمحاميه",
+            "يمكن لقاضي التحقيق أن يأمر بمنع اتصال المتهم بمحاميه لمدة عشرة أيام قابلة للتجديد مرة واحدة",
+            "لا يسري المنع على محامي المتهم",
+            "جميع الأجوبة صحيحة"
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 23\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "من أهم الاخطار المسئولیة المدنیة للمنشأة",
+        "choices": [
+            "اصابات العمل",
+            "المسئولیة عن التلوث",
+            "المسئولیة عن المنتجات",
+            "كل ما سبق"
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 23\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "عقد يلتزم بمقتضاه شخصان أو أكثر بالمساهمة في مشروع اقتصادي بتقديم حصة من رأس مال أو عمل للاستثمار وابتسام ما قد ينشأ عنه من ربك أو خسارة يعرف ب:  ",
+        "choices": [
+            "الشركة",
+            "الأسهم",
+            "السند ",
+            "هيئة الأوراق المالية "
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 23\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "ينتج عنه ظهور خليتان جديدتان تحوي كل منهما العدد نفسه الموجودة في الخلية الاصلية  ",
+        "choices": [
+            "الانقسام المتساوي  ",
+            "النقسام المنصف  ",
+            null,
+            null
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 23\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "يقدم طلب التجريح وفق الشكليات التالية:",
+        "choices": [
+            "قدم طلب التجريح كتابة",
+            "تا يجب أن يبين في الطلب الوسيلة المثارة للتجريح تحت طائلة البطلان",
+            "يجب أن يرفق الطلب بجميع الوثائق المفيدة",
+            "يوقع طلب التجريح من طرف طالبه أو وكيله الخاص"
+        ],
+        "answer": 4,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 23\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "عندما يمر تيار كهربي مستمر في سلك مستقيم ال نهائي فإن خطوط المجال المغناطيسي تكون",
+        "choices": [
+            ". مستقيمة وتوازي السلك",
+            "دائرية مغلقة ومركزها محور السلك",
+            ". مستقيمة وعمودية على السلك",
+            "شبه دائرية وتحيط بالسلك"
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 23\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "نصّت معاهدة التحالف الاردنيه-البريطانيه عام ١٩٤٦ على إلغاء الانتداب البريطاني على البلاد وتثبيث معاهدة ١٩٢٦.",
+        "choices": [
+            "نعم",
+            "لا",
+            null,
+            null
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 23\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "أطلق المفكرون أسم أو لقب المعلم الثانً على........",
+        "choices": [
+            "أفالطون.",
+            "أرسطو.",
+            "أبن تٌمٌ .",
+            "الفاراب.ً"
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 23\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "يستخدم الحاسوب في مجالات كثيرة باستثناء مجال الصناعة:  ",
+        "choices": [
+            "صحيح",
+            "غير صحيح ",
+            null,
+            null
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 22\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "......... مقدار ما يتوفر من سلعة ما ",
+        "choices": [
+            "عرض مرتفع  ",
+            "طلب منخفض  ",
+            "العرض  ",
+            "الطلب "
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 22\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "حماية  ‏الوفود الرسمية الزائرة للمملكة من مهام :",
+        "choices": [
+            "قوات الدرك",
+            "الامن العام",
+            "المخابر ات العامة",
+            "الدفاع المدني"
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 22\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "عند إدراج الكائن من مكتبة الكائنات، فإنه يكون متجها نحو جهة الاعلى.",
+        "choices": [
+            "صح",
+            "خطأ",
+            null,
+            null
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 22\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "واحدة من الآتية ليست من القيم الضرورية لإنجاز التحول الديمقراطي وإرساء نهج الحكومات البرلمانية كما جاء الورقة النقاشية الثالثة :",
+        "choices": [
+            "أهمية التعددية",
+            "التسامح",
+            "تعزيز مبادئ الفصل والتوازن بين السلطات",
+            "صون حقوق الأقليات"
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 22\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "إن اﻻھﺗﻣﺎم اﻟﻐرﺑﻲ ﺑﺣﻘوف اﻹﻧﺳﺎن ﻗد ﺑدأ اﺳﺎﺳﺎً ﺑﺎﻷﻓﻛﺎر اﻟﺗﻲ ﺟﺎءت ﺑﮭﺎ :",
+        "choices": [
+            "اﻟﺛورة اﻟروﺳﯾﺔ",
+            "اﻟﺛورة اﻹﻧﺟﻠﯾزﯾﺔ",
+            "اﻟﺛورة اﻟﻔرﻧﺳﯾﺔ",
+            null
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 22\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "ان ﻣن ﯾرى اﻧﮫ ﻻ ﯾﻧﺑﻐﻲ ادراج ﺣﻘوق اﻹﻧﺳﺎن ﻓﻲ اﻟﺳﯾﺎﺳﺔاﻟﺧﺎرﺟﯾﺔ ﻟﻠدول ھم اﻧﺻﺎر:",
+        "choices": [
+            "اﻟﻣدرﺳﺔ اﻟواﻗﻌﯾﺔ",
+            "اﻟﻣدرﺳﺔ اﻟﻣﺛﺎﻟﯾﺔ",
+            "اﻟﻣدرﺳﺔ اﻟﻧﻔﻌﯾﺔ",
+            null
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 22\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "تغطي وثیقة الحریق الخسائر التالیة بملحق وقسط إضافى",
+        "choices": [
+            "الخسائر التبعیة",
+            "خسائر المسئولیة المدنیة الناشئة عن الحریق تجاه الجیران",
+            "الزلازل",
+            "كل ما سبق"
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 22\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "كم مرة نؤدي الصلاة في اليوم؟",
+        "choices": [
+            "ثلاث مرات",
+            "خمس مرات",
+            "سبع مرات",
+            null
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 21\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "من أهم التجهيزات التي تستخدم في تقديم الطعام:  ",
+        "choices": [
+            "الطاولات والكراسي ",
+            "آلة تقطيع الطعام ",
+            "الأفران",
+            "لا شيء مما ذكر "
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 21\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "يقصد بالوراثة أنه انتقال الصفات من الآباء إلى الأبناء",
+        "choices": [
+            "صح",
+            "خطأ",
+            null,
+            null
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 21\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "مرتبط بحالة المرسل أو المستقبل بما فيها من فرح وغضب وحزن وخوف.  ",
+        "choices": [
+            "تشويش لفظي  ",
+            "تشويش إدراكي ",
+            "تشويش جسدي ",
+            "تشويش نفسي "
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 21\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "أحد المعلومات التالية خاطئة فيما يخص الإنزيمات:",
+        "choices": [
+            "يعمل انزيم الببسين عند درجة حرارة مثلى تساوي 37C",
+            "تقلل طاقة تنشيط التفاعلات",
+            " ترتبط أكثر من مادة المتفاعلة فيه بفرضية التلاؤم المستحث",
+            "يزيد من سرعة التفاعل مهما كانت الزيادة في تركيز المادة المتفاعلة"
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 21\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "البحر الميت يعد من البحار ……… ",
+        "choices": [
+            "شبه مفتوحة ",
+            "مفتوحة ",
+            "مغلقة ",
+            "مياه عذبة "
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 21\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "من القائل:نالت على يدها ما لم تنله يدي *** نقشا على معصم وأوهت به جلدي؟",
+        "choices": [
+            "الطغرائي",
+            "إبن الرومي",
+            "إبن الدهان",
+            "يزيد بن معاوية"
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 21\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "حكم الصلاة خلف مقام إبراهيم عليه السلام عند الفراغ من الطواف حول الكعبة:",
+        "choices": [
+            "مباح",
+            "سنة",
+            "واجب",
+            "ركن"
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 20\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "مما يميز دستور عام 1952 عن دستور 1947",
+        "choices": [
+            "استناد السلطة التشريعية ل ملجس الأمة",
+            "جعل السلطة التنفيذية مسؤولة امام التشريعية",
+            "تاكيد مبدا وراثة الحكم",
+            "كل ما ذكر صحيح"
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 20\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "مقدار المال الذي أوجب الله تعالى على المسلم الغني أن يخرجه من ماله للمستحقين له .……",
+        "choices": [
+            "الزكاة",
+            "الصدق",
+            "النصاب ",
+            "التسامح  "
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 20\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "اختر الفعل ذو الضمير المناسب الذي يمكن وضعه بدلاً من [فراغ] في الجملة التالية\nرأيت الطلاب [فراغ] إلى النادي.",
+        "choices": [
+            "ذهبوا",
+            "قابلت",
+            "رأيتم",
+            "تحبن"
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 20\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "من هو الصحابي الملقب بسيد الفوارس؟",
+        "choices": [
+            "سعد بن أبي وقاص",
+            "حمزة بن عبدالمطلب",
+            "أبو موسى الأشعري",
+            "خالد بن الوليد"
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 20\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "نسبة الاردنيين الذين لا يستطيعون الوصول الى الخدمات الماليه استنادا الى نسبة امتلاك الحسابات :",
+        "choices": [
+            "0.38",
+            "0.67",
+            "0.5",
+            "0.76"
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 20\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "وجدت خوارزميات البحث في الذكاء الاصطناعي لحل المشكلة ذات الصفات التي :",
+        "choices": [
+            "لا يوجد طريقة واضحة للحل بالطرق الاعتيادية",
+            "يحتاج الحل إلى حدس عالي مثل الشطرنج",
+            "يحتاج الحل إلى عمليات حسابية كثيرة ومتنوعة من الألعاب والتشفير",
+            "جميع ما ذكر"
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 20\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "‏الحزب الذي شكل أول حكومة أردنية في عام 1921 م وانضم إليه بعض الزعماء الوطنيين في الأردن هو‎",
+        "choices": [
+            "حزب الشعب",
+            "حز ب الاستقادً ل",
+            "الحزب الوطني",
+            "حزب اللجنة التنفيذية للمؤتمر الوطني"
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 20\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "واحدة من الآتية لا تعد من أطراف العملية السياسية كما جاء في الورقة النقاشية الثالثة :",
+        "choices": [
+            "المواطن",
+            "المجلس القضائي",
+            "الملكية الهاشمية",
+            "مجلس النواب"
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 19\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "الأداة التي تستخدم في جمع الأوساخ والنفايات هي …….",
+        "choices": [
+            "المكنسة",
+            "المجرود",
+            "الدلو",
+            "القاشطة"
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 19\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "العدد الذي يسبق 11 هو 12",
+        "choices": [
+            "صح",
+            "خطأ",
+            null,
+            null
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 19\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "يتشابه عملها مع عمل كرات الدم البيضاء فى الإنسان",
+        "choices": [
+            "جلوكوزيدات",
+            "مستقبلات",
+            "أحماض أمينية غير بروتينية",
+            "سيفالوسبورين"
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 19\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "من الأسس الرئيسة لـ \" المواطنة الفاعلة\" كما ورد في الورقة النقاشية الرابعة:",
+        "choices": [
+            "حق المشاركة",
+            "احترام الرأي الآخر",
+            "الانخراط الفاعل",
+            "الشراكة في التضحيات والمكاسب"
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 19\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "يقول \"فولتير\" : \" إننا أبناء من نفس الاب و مخلوقات لنفس الالله و إننا عجين من الاخطاء و النقائص\" يعكس القول السابق أحد مهارات التفكير الفلسفي وهي.",
+        "choices": [
+            "الحوار",
+            "التسامح",
+            "الشك",
+            "النقد"
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 19\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "يستطيع بعض افراد الكائنات الحية بمفردهم انتاج افراد جديدة مماثلة لها بعملية تسمى  ",
+        "choices": [
+            "التكاثر اللاجنسي",
+            "التكاثر الخضري",
+            "التكاثر الجنسي",
+            null
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 19\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "يمكننا رؤية الأشياء التي تقع خلف جدار غرفة الصف: ",
+        "choices": [
+            "صحيح",
+            "غير صحيح ",
+            null,
+            null
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 19\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "جاء شيخ كبير ذات يوم يريد النبي، فأبطأ القوم أن يوسعوا له، فرق له رسول الله، وقال: \"ليس منا من لم\nيرحم صغيرنا ويعرف حق كبيرنا\"، فدل ذلك على توقير كبير السن بالتوسعة له في المجلس وإجالسه، تدل على صورة من صور الاهتمام بكبار السن هي:",
+        "choices": [
+            "توقيرهم وإكرامهم",
+            "التخفيف عليهم ورفع الحرج عنهم",
+            "تربية الصغار على حسن التعامل مع كبار السن",
+            "جميع ما ذكر"
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 19\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "المعنى المقارب من كلمة فائدة هو",
+        "choices": [
+            "منفعة",
+            "مسرة ",
+            "مضرة ",
+            "مجاعة "
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 19\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "الرياح التي تنشأ نتيجة لاختالفات قيم الضغط الجوي، بسبب وجود كتل يابسة كبيرة بجوار مسطحات مائية واسعة هي :",
+        "choices": [
+            "الدائمة",
+            "الموسمية",
+            "اليومية",
+            "المرافقة للمنخفضات الجوية"
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 18\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": " عنوان IP يستخدم في الطبقة الثانية ربط البيانات.",
+        "choices": [
+            "صح",
+            "خطأ",
+            null,
+            null
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 18\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "ماذا يسمى العدد 50 في عملية الطرح : 70 – 20 = 50 ؟",
+        "choices": [
+            "ناتج الطرح",
+            "المطروح",
+            "المطروح منه",
+            "لاشيء مما سبق"
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 18\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "يعيش النحل في:",
+        "choices": [
+            "عش",
+            "حجر",
+            "حظيرة",
+            "خلية"
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 18\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "إذا تعلق الأمر بالتقديم الفوري للمتهم المتلبس بجنحة معاقب علها بالحبسء ولم تتوفر في مرتكبيها ضمائنات كافية للحضور,. وقرر وكيل الملك أو نائبه إيداعه قٍِ السجنء فإنه يقدم إلى أول جلسة تعقدها المحكمة الابتدائية:",
+        "choices": [
+            "بدون سابق استدعاء",
+            "في كل الأحوال داخل ثلاثة أيام",
+            "تشعره المحكمة بأن له الحق في طلب أجل قصد تمئ دفاعه واختيار محام",
+            "يترتب البطلان عن مخالفة هذه المقتضيات"
+        ],
+        "answer": 4,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 18\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "من أهم العادات التي تضر بالصحة :-",
+        "choices": [
+            "ممارسة الرياضة",
+            "الجلوس في الظل",
+            "الإفراط في تناول الأطعمة",
+            "التطعيمات الصحية"
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 18\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "  اكتب العدد 54 بالصورة التحليلية",
+        "choices": [
+            "40+ 50",
+            "5 + 40",
+            "4+ 50",
+            null
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 18\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "تقدّم الكلمة أو تأخر كلمة عنها راجع إلى مراعاة السياق ومقتضى حال المخاطب علل ذلك :",
+        "choices": [
+            "لأن ذلك يؤدي إلى عدم الاختلاف في المعنى",
+            "لأن سياق الكلام يدل على القوة والإنسان أقوى من الجن في كل شيء",
+            "لأن ذلك يؤدي إلى الاختلاف في المعنى",
+            "الأمر البلاغي في التقديم أو التأخير يؤدي للحال"
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 17\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "…….. المبالغ التي تدفعها إلى غيرك للحصول على سلع أو خدمات.  ",
+        "choices": [
+            "النفقات الشخصية  ",
+            "الإيرادات الشخصية  ",
+            "الادخار",
+            "رأس المال  "
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 17\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "القدرة على استخدام برامج التصميم الجرافيكس بشكل احترافي يعرف بــ ",
+        "choices": [
+            "تصميم الوسائط المتعددة ",
+            "تصميم الألعاب الحاسوبية ",
+            "تصميم البرمجيات ",
+            "هندسة الحاسوب "
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 17\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "يشترط في عقود شركا التضامن توافر الأركان العامة نعقاد العقود والتي تتضمن لم ص ما يلي عدا",
+        "choices": [
+            "اسم الشركة",
+            "ا هل ة",
+            "السبب",
+            "ولود شريك موصي"
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 17\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "واحدة من العبارات الآتية غير صحيحة :",
+        "choices": [
+            "تبرز أهمية أنظمة العدّ لاستعمالها بكثرة في الحوسبة ومعالجة البيانات",
+            "يعود الاختلاف في اسماء الانظمة العددية الى اختلاف عدد الرموز المسموح باستخدامها في كل نظام",
+            "يسمى نظام العدّ موضعيا , إذا كانت القيمة الحقيقية للرقم تعتمد على الخانة أو المنزلة التي يقع فيها ذلك الرقم داخل العدد",
+            "لحساب قيمة العدد في النظام الثماني نجد حاصل جمع كل رقم بالوزن المخصص للخانة ( المنزلة ) التي يقع فيها ذلك الرقم داخل العدد"
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 17\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "من الشروط التي يجب أن تتوفر في واسطة نقل المواد الخطرة",
+        "choices": [
+            "أن تخضع لفحص دوري من الأمن العام كل سنة",
+            "أن تكون سعتها ضعفي حجم المادة المنقولة",
+            "أن يوضع على المركبة ملصق تحذيري والخاص بالمواد الخطرة",
+            "جميع ما ذكر"
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 17\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "يمتاز المناخ المدارس الذي يسود في الأجزاء الجنوبية من الوطن العربي؛  ",
+        "choices": [
+            "صيف ممطر وشتاء جاف مع ارتفاع الحرارة ",
+            "حار وماطر صيفا وبارد وجاف شتاء ",
+            "شتاء معتدل غزير الأمطار وصيف حار جاف ",
+            "غزير الأمطار وصيف معتدل "
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 17\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "استمدت الثورة الفرنسية مبادئها من كتاب \"العقد الاجتماعي\" للفيلسوف الفرنسي \"جان جاك روسو\" والذي ساهم في نهضة فرنسا وتحولها إلي النظام الجمهوري. يمثل الموقف السابق توظيفًا لدور الفلسفة وأهميتها بالنسبة إلي",
+        "choices": [
+            "المجتمع",
+            "التاريخ",
+            "العصر",
+            "الفرد"
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 17\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "أول من جهر بالقرآن الكريم بمكة المكرمة هو الصحابي ….؟",
+        "choices": [
+            "عمر بن الخطاب",
+            "عبدالله بن مسعود",
+            "أبو بكر الصديق",
+            "عثمان بن عفان"
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 16\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "يمتد بين دائرتي عرض) ٢ جنوب و٣٨ شمال( خط الاستواء وبين خطي طول) ١٦ غرب و٦٠ شرق( خط غرينتش  ",
+        "choices": [
+            "الاقليم",
+            "الاردن",
+            "الوطن العربي ",
+            "الإقليم الاستوائي "
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 16\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "عقد مجلس النواب جلسة خاصة لمناقشة مشروع قانون الموازنة يأتي ضمن مرحلة :",
+        "choices": [
+            "مرحلة الاعتماد والاقرار",
+            "مرحلة التحضير والاعداد",
+            "مرحلة التنفيذ",
+            "مرحلة مراقبة التنفيذ والتقييم"
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 16\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "يستخدم في أنواع الطيب بسبب رائحته الطيبة.  ",
+        "choices": [
+            "البخور",
+            "الصمغ",
+            "اللبان",
+            "العطور"
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 16\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "تعتبر القلائد من التراث المادي في دولة قطر وتصنف ضمن الصناعات :-",
+        "choices": [
+            "النسيجية",
+            "الغذائية",
+            "المعدنية",
+            "الخشبية"
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 16\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "ازهار الحديقة جميلة تعرب كلمة أزهار على أنها:\n",
+        "choices": [
+            "مبتدأ مرفوع",
+            "خبر مرفوع",
+            "مضاف إليه مجرور",
+            "اسم إشارة"
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 16\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "تعد المركز الحضاري الأهم في بلاد الشام ……..",
+        "choices": [
+            "أوغاريت",
+            "صيدا",
+            "صور",
+            "جبيل"
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 16\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "أطلق لقب الصقالية على الذين ولدوا في الاندلس من آباء مسلمين وأمهات أسبانيات .",
+        "choices": [
+            "صح",
+            "خطأ",
+            null,
+            null
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 16\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "يزودك موفر خدمة الانترنت بما يلي",
+        "choices": [
+            "كمبيوتر شخصي واسم للمستخدم",
+            "كمبيوتر شخصي وكلمة مرور",
+            "كمبيوتر شخصي",
+            "اسم مستخدم وكلمة مرور لالتصال باالنترنت"
+        ],
+        "answer": 3,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 15\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "تسمى المبالغ نقدية تُح صلها الدولة من الأرباح التي تُِدُّرها أسهم الشركات المملوكة لها، مثل: مصفاة البترول، ومصنع الأسمنت.",
+        "choices": [
+            "أملاكعقارية",
+            "أملاكمالية",
+            " أملاكصناعية",
+            " أملاكتجارية"
+        ],
+        "answer": 1,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 15\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "يساعد التويج فى عملية التلقيح",
+        "choices": [
+            "صح",
+            "خطأ",
+            null,
+            null
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 15\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": " يقول \"راسل\" : \"لحظات من الخلوة تحقق لي...التركيز وتدفع في نفسي قوة هائلة لمواصلة الطريق\". يعكس القول السابق أحد خصائص التفكير الفلسفي وهي",
+        "choices": [
+            "الدقة",
+            "الاستقلال",
+            "التأمل",
+            "الدهشة"
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 15\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "أول هجرة هاجرها المسلمون كانت  إلى…. ",
+        "choices": [
+            "العقبة",
+            "الطائف",
+            "الحبشة",
+            "مكة المكرمة  "
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 15\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "سبب التملك في الآية الكريمة ، قال تعالى : ( يوصيكم الله في أولادكم للذكر مثل حظ الأنثيين. )",
+        "choices": [
+            "العمل",
+            "الوصية ",
+            "الإرث ",
+            "الهبة"
+        ],
+        "answer": 2,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 15\n}\n]",
+        "solution": "API error"
+    },
+    {
+        "question": "قد يفكر المدقق باختبارات الالتزام باستعمال أساليب تدقيق الحاسب اآللي مثل:",
+        "choices": [
+            "اختيار بيانات معينة.",
+            "فحص المستندات.",
+            "مراجعة التسجيالت.",
+            "ال شيء مما سبق"
+        ],
+        "answer": 0,
+        "reasoning": "Gemini API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 15\n}\n]",
+        "solution": "API error"
+    }
+]
