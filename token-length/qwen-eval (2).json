@@ -1,0 +1,962 @@
+[
+  {
+    "index": 0,
+    "question": "بطات جانيت تضع 16 بيضة في اليوم. فهي تأكل ثلاث منها على الفطور كل صباح وتخبز الكعك لأصدقائها كل يوم بأربع منها. إنها تبيع ما تبقى منها في سوق المزارعين كل يوم مقابل دولارين لكل بيضة بطازجة. كم تجني من الدولار كل يوم في سوق المزارعين؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: بطأت جانيت تضع 16 بيضة في اليوم. ف+_هي تأكل ثلاث من_+ها على الفطور كل صباح و+_تخبز الكعك ل+_أصدقاء_+ها كل يوم ب+_أربع منها. إن_+ها تبيع ما تبقى من_+ها في سوق المزارعين كل يوم مقابل دولارين ل+_كل بيضة بطازجة. كم تجني من الدولار كل يوم في سوق المزارعين؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, startingin with #### تساوى عدد البيض التي تضع_+ها جانيت في اليوم 16 بيضة. تأكل 3 بيضات في الفطور، و4 بيضات في الكعك، لذا تبقى 16 - (3 + 4) = 9 بيضات. إذا بعت هذه البيضات، ف+_إن_+ها تكسب 9 × 2 = 18 دولارا. #### 18 دولارا. ",
+    "predicted_answer": "18",
+    "correct_answer": "18",
+    "is_correct": true
+  },
+  {
+    "index": 1,
+    "question": "يتطلب صنع العباءة بكرتين من الألياف الزرقاء ونصف ذلك القدر من الألياف البيضاء. كم عدد البكرات اللازمة بشكل عام؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يتطلب صنع العباءة ب+_كرتين من الألياف الزرقاء و+_نصف ذلك القدر من الألياف البيضاء. كم عدد البكرات اللازمة ب+_شكل عام؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 2 Answer: يتطلب صنع العباءة ب+_كرتين من الألياف الزررة و+_نصف ذلك القدر من الألياف البيضاء. كم عدد البكرات اللازمة ب+_شكل عام؟ **Answer: المعطيات:** 1. عدد البكرات الزرقاء = 2 2. عدد البكرات البيضاء = نصف عدد البكرات الزررة = 2 ÷ 2 = 1 **الخطوات:** 1. حساب العدد الكلي للبكرات: 2 + 1 = 3 بكرات. إذن، تحتاج إلى 3 بكرات ل+_صنع العباءة. ",
+    "predicted_answer": "3",
+    "correct_answer": "3",
+    "is_correct": true
+  },
+  {
+    "index": 2,
+    "question": "قرر جوش تجربة مضاربة في العقارات. فقد اشترى منزلاً بمبلغ 80,000 دولار ثم أنفق 50,000 دولار على الإصلاحات. رفع هذا من قيمة المنزل بنسبة 150%. كم كانت أرباحه؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: قرر جوش تجربة مضارب_+ه في العقارات. ف+_قد اشترى منزلا ب+_مبلغ 80,000 دولار ثم أنفق 50,000 دولار على الإصلاحات. رفع هذا من قيمة المنزل ب+_نسبة 150%. كم كانت أرباحه؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 80,000 + (150% من 80,000) = 80,000 + (1.5 × 80,000) = 80,000 + 120,000 = 200,000 دولار. #### 200,000",
+    "predicted_answer": "000",
+    "correct_answer": "70000",
+    "is_correct": false
+  },
+  {
+    "index": 3,
+    "question": "قرر جيمس القيام بثلاث جولات سريعة من الركض ثلاث مرات في الأسبوع. ويقطع مسافة 60 متراً في كل جولة. كم متراً يقطع في الأسبوع؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: قرر جيمس القيام ب+_ثلاث جولات سريعة من الركض ثلاث مرات في الأسبوع. و+_يقطع مسافة 60 مترا في كل جولة. كم مترا يقطع في الأسبوع؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 3 × 3 = 9 جولات. 60 × 9 = 540 مترا. إذن، يقطع جيمس 540 مترا في الأسبوع. ",
+    "predicted_answer": "540",
+    "correct_answer": "540",
+    "is_correct": true
+  },
+  {
+    "index": 4,
+    "question": "كل يوم، تُطعم وندي كل دجاجة من دجاجاتها ثلاث أكواب من العلف المختلط الذي يحتوي على البذور ويرقات الدقيق والخضروات للمساعدة في الحفاظ على صحتهم. تقدم الدجاجات وجباتهم في ثلاث وجبات منفصلة. في الصباح، تعطي قطيعها من الدجاج 15 كوبًا من العلف. في فترة ما بعد الظهر، تعطي دجاجاتها 25 كوبًا أخرى من العلف. كم عدد أكواب العلف التي تحتاجها لتقديمها لدجاجاتها في الوجبة الأخيرة من اليوم إذا كان حجم قطيع وندي 20 دجاجة؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: كل يوم، تطعم و+_ندى كل دجاج_+ه من دجاجاتها ثلاث أكواب من العلف المختلط الذي يحتوي على البذور و+_يرقات الدقيق و+_الخضروات ل+_المساعدة في الحفاظ على صحتهم. تقدم الدجاجات وجب في ثلاث وجبات منفصلة. في الصباح، تعطي قطيع_+ها من الدجاج 15 كوبا من العلف. في فترة ما بعد الظهر، تعطي دجاجاتها 25 كوبا أخرى من العلف. كم عدد أكواب العلف التي تحتاج_+ها ل+_تقديم_+ها لدجاجاتها في الوجبة الأخيرة من اليوم إذا كان حجم قطيع و+_ندى 20 دجاجة؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 20 × 3 = 60 كوبا. إذن، تحتاج و+_يندى إلى 60 كوبا من العلف ل+_تقديم_+ها لدجاجاتها في الوجبة الأخيرة من اليوم. ",
+    "predicted_answer": "60",
+    "correct_answer": "20",
+    "is_correct": false
+  },
+  {
+    "index": 5,
+    "question": "ذهب كايلار إلى المتجر لشراء أكواب لشقة الجديدة. تكلفة الكوب الواحد 5 دولارات، لكن كل كوب ثاني يكلف فقط 60٪ من السعر. يريد كايلار شراء 16 كوبًا. كم يجب أن يدفع مقابلها؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: ذهب كايلار إلى المتجر ل+_شراء أكواب ل+_شقة الجديدة. تكلفة الكوب الواحد 5 دولارات، لكن كل ك+_وب ثاني يكلف فقط 60٪ من السعر. يريد كايلار شراء 16 كوبا. كم يجب أن يدفع مقابلها؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 16 Answer: سعر الكوب الأول 5 دولارات. سعر الكوب الثاني 60% من 5 = 0.6 × 5 = 3 دولارات. عدد الكؤوس الأولى 8 (كوب واحد) × 5 = 40 دولار. عدد الكؤوس الثانية 8 (كوب ثاني) × 3 = 24 دولار. إجمالي المبلغ 4 ",
+    "predicted_answer": "4",
+    "correct_answer": "64",
+    "is_correct": false
+  },
+  {
+    "index": 6,
+    "question": "تملك تولوز ضعف عدد الأغنام التي تملكها تشارلستون. وتشارلستون تملك أربعة أضعاف عدد الأغنام التي تملكها سياتل. كم عدد الأغنام التي تمتلكها تولوز وتشارلستون وسياتل معًا إذا كانت سياتل تملك 20 خروفًا؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تملك تولوز ضعف عدد الأغنام التي تملك_+ها تشارلستون. وتشارلستون تملك أربعة أضعاف عدد الأغنام التي تملك_+ها سياتل. كم عدد الأغنام التي تمتلك_+ها تولوز وتشارلستون و+_سياتل معا إذا كانت سياتل تملك 20 خروفا؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تمتلك سياتل 4 × 20 = 80 خررا. تمتلك تشارلستون 4",
+    "predicted_answer": "4",
+    "correct_answer": "260",
+    "is_correct": false
+  },
+  {
+    "index": 7,
+    "question": "كارلا تقوم بتنزيل ملف حجمه 200 جيجابايت. عادة يمكنها تنزيل 2 جيجابايت في الدقيقة، ولكن بعد مرور 40٪ من عملية التنزيل، يقوم نظام ويندوز بإجبارها على إعادة التشغيل لتثبيت التحديثات، مما يستغرق 20 دقيقة. بعد ذلك، يتعيّن على كارلا إعادة بدء التنزيل من البداية. كم من الوقت يستغرق تنزيل الملف بالكامل؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: كارلا تقوم ب+_تنزيل ملف حجم_+ه 200 جيجابايت. عادة يمكن_+ها تنزيل 2 جيجابايت في الدقيقة، و+_لكن بعد مرور 40٪ من عملية التنزيل، يقوم نظام ويندوز ب+_إجبار_+ها على إعادة التشغيل ل+_تثبيت التحديثات، من_+ما يستغرق 20 دقيقة. بعد ذلك، يتعين على كارلا إعادة بدء التنزيل من البداية. كم من الوقت يستغرق تنزيل الملف بالكامل؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "20",
+    "correct_answer": "160",
+    "is_correct": false
+  },
+  {
+    "index": 8,
+    "question": "يقود جون لمدة 3 ساعات بسرعة 60 ميلاً في الساعة، ثم يعود أدراجه لأنه يدرك أنه نسي شيئًا مهمًا للغاية في المنزل. يحاول العودة إلى المنزل في غضون 4 ساعات ولكنه يقضي الساعتين الأوليين في زحمة مرورية متوقفة. ثم يقود السيارة لمدة نصف ساعة أخرى بسرعة 30 ميلاً في الساعة، قبل أن يتمكن من القيادة لبقية الوقت المتبقي من الساعات الأربع بسرعة 80 ميلاً في الساعة. ما هي المسافة التي تفصله عن المنزل في نهاية تلك الساعات الأربع؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يقود جون ل+_مدة 3 ساعات ب+_سرعة 60 ميلا في الساعة، ثم يعود إدراج_+ه ل+_أن_+ه يدرك أن_+ه نسي شيئا مهما ل+_الغاية في المنزل. يحاول العودة إلى المنزل في غضون 4 ساعات و+_لكن_+ه يقضي الساعتين الأوليين في زحمة مروري_+ه متوقفة. ثم يقود السيارة ل+_مدة نصف ساعة أخرى ب+_سرعة 30 ميلا في الساعة، قبل أن يتمكن من القيادة ل+_بقية الوقت المتبقي من الساعات الأربع ب+_سرعة 80 ميلا في الساعة. ما هي المسافة التي تفصل_+ه عن المنزل في نهاية تلك الساعات الأربع؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting... Answer: المعطيات: 1. السرعة أثناء القيادة الأولى = 60 ميلا في الساعة (mph) 2. الزمن المستغرق أثناء القيادة الأولى = 3 ساعات 3. السرعة أثناء القيادة الثانية = 30 mph 4. الزمن المستغرق أثناء القيادة الثانية = 0.5 ساعة 5. السرعة أثناء القيادة الثالثة = 80 mph 6. الزمن المستغرق أثناء القيادة الثالثة = 0.5 ساعة الخطوات: 1. حساب المسافة المقطوعة أثناء القيادة الأولى: المسافة = السرعة × الزمن = 60 mph × 3 ساعات = 180 ميل. 2. حساب المسافة المقطوعة أثناء القيادة الثانية: المسافة = السرعة × الزمن = 30 mph × 0.5 ساعة = 15 ميل. 3. حساب المسافة المقطوعة أثناء القيادة الثالثة: المسافة = السرعة × الزمن = 80 mph × 0.5 ساعة = 40 ميل. 4. حساب المسافة الكلية: المسافة الكلية = 180 ميل + 15 ميل + 20 ميل = 215 ميل. إذن، المسافة التي تفصل_+ه عن المنزل في نهاية تلك الساعات الأربع هي 215 ميل. ",
+    "predicted_answer": "215",
+    "correct_answer": "45",
+    "is_correct": false
+  },
+  {
+    "index": 9,
+    "question": "يبلغ سعر الساعة لإليزا لأول 40 ساعة عمل في الأسبوع 10 دولارات. كما أنها تحصل على أجر إضافي قدره 1.2 مرة من سعر الساعة العادي. إذا عملت إليزا لمدة 45 ساعة هذا الأسبوع، فما هي أرباحها لهذا الأسبوع؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يبلغ سعر الساعة لإليزا ل+_أول 40 ساعة عمل في الأسبوع 10 دولارات. كما أن_+ها تحصل على أجر إضافي قدر_+ه 1.2 مرة من سعر الساعة العادي. إذا عملت إليزا ل+_مدة 45 ساعة هذا الأسبوع، ف+_ما هي أرباح_+ها ل+_هذا الأسبوع؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أجر الساعة العادية ل+_إليزا ل+_الساعات الأولى 40 × 10 = 400 دولار. بعد ذلك، تعمل 5 ساعات إضافية، و+_التي تحصل على أجر_+ها ب+_واسطة 1.2 × 10 = 12 دولار. لذا، أجر الساعة الإضافية هو 5 × 12 = 60 دولار. لذلك، أجمعت أرباح إليزا ل+_هذا الأسبوع إلى 400 + 60 = 460 دولار. #### 460",
+    "predicted_answer": "460",
+    "correct_answer": "460",
+    "is_correct": true
+  },
+  {
+    "index": 10,
+    "question": "كان لدى برنامج جديد 60 عملية تنزيل في الشهر الأول. وكان عدد عمليات التنزيل في الشهر الثاني ثلاثة أضعاف التنزيلات في الشهر الأول، لكنه انخفض بنسبة 30٪ في الشهر الثالث. ما هو إجمالي عدد التنزيلات التي حصل عليها البرنامج خلال الأشهر الثلاثة؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: كان لدى برنامج جديد 60 عملية تنزيل في الشهر الأول. و+_كان عدد عمليات التنزيل في الشهر الثاني ثلاثة أضعاف التنزيلات في الشهر الأول، لكن_+ه انخفض ب+_نسبة 30٪ في الشهر الثالث. ما هو إجمالي عدد التنزيلات التي حصل على_+ها البرنامج خلال الأشهر الثلاثة؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "30",
+    "correct_answer": "366",
+    "is_correct": false
+  },
+  {
+    "index": 11,
+    "question": "ذهبت تولى إلى المخبز واشترت أنواعًا مختلفة من المعجنات. اشترت 3 دزينة من الكعك بتكلفة 68 دولارًا للوحدة، و2 دزينة من الكب كيك الصغير بتكلفة 80 دولارًا للوحدة، و6 دزينة من التشيز كيك الصغير بتكلفة 55 دولارًا للوحدة. فما هي التكلفة الإجمالية؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: ذهبت تولى إلى المخبز و+_اشترت أنواعا مختلفة من المعجنات. اشترت 3 دزينة من الكعك ب+_تكلفة 68 دولارا للوحدة، و2 دزينة من الكب كي_+ك الصغير ب+_تكلفة 80 دولارا للوحدة، و6 دزينة من التشيز كي_+ك الصغير ب+_تكلفة 55 دولارا للوحدة. ف+_ما هي التكلفة الإجمالية؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 68 + 80 + 55 = 203 دولار. #### 203 ",
+    "predicted_answer": "203",
+    "correct_answer": "694",
+    "is_correct": false
+  },
+  {
+    "index": 12,
+    "question": "يزرع كارلوس شجرة ليمون. ستكلف زراعة الشجرة 90 دولارًا. ستنمو كل عام 7 حبات ليمون، يمكنه بيعها مقابل 1.5 دولار لكل منها. تبلغ تكلفة ري الشجرة وإطعامها 3 دولارات سنويًا. كم عدد السنوات التي ستمر قبل أن يبدأ في جني الأموال من شجرة الليمون؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يزرع كارلوس شجرة ليمون. س+_تكلف زراعة الشجرة 90 دولارا. س+_تنمو كل عام 7 حبات ليمون، يمكن_+ه بيع_+ها مقابل 1.5 دولار ل+_كل منها. تبلغ تكلفة ري الشجرة و+_إطعام_+ها 3 دولارات سنويا. كم عدد السنوات التي س+_تمر قبل أن يبدأ في جني الأموال من شجرة الليمون؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, startingin with #### تساوى تكلفة رعاية الشجرة سنويا 3 دولارات. تحقق كارلوس حبات ليمون سنويا، لذا في السنة n، س+_يكون لدى_+ه 7n حبات. تكسب كارلوس من كل حبة 1.5 دولار، لذا في السنة n، س+_يكون لدى_+ه 1.5 × 7n دولار. نحتاج إلى إيجاد n حيث: 1.5 × 7n ≥ 90 (تكلفة زراعة الشجرة) 10.5n ≥ 90 n ≥ 90 / 10.5 n ≥ 8.57 نظرا ل+_أن عدد السنوات يجب أن يكون عددا صحيحا، نستنتج أن_+ه في السنة 9، س+_يبدأ كارلوس في جني الأموال. لذلك، عدد السنوات التي س+_تمر قبل أن يبدأ في جني الأموال هو 9 سنوات. #### 9",
+    "predicted_answer": "9",
+    "correct_answer": "13",
+    "is_correct": false
+  },
+  {
+    "index": 13,
+    "question": "ميلاني هي بائعة متنقلة من باب إلى باب. لقد باعت ثلث المكانس الكهربائية الخاصة بها في المنزل الأخضر، واثنتين إضافيتين للمنزل الأحمر، ونصف ما تبقى في المنزل البرتقالي. إذا كانت ميلاني تمتلك 5 مكانس كهربائية متبقية، فكم عدد المكانس التي بدأت بها؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: ميلا_+ني هي بائع_+ه متنقل_+ه من باب إلى باب. ل+_قد باعت ثلث المكانس الكهربائية الخاصة ب_+ها في المنزل الأخضر، و+_ٱثنتين إضافيتين ل+_المنزل الأحمر، و+_نصف ما تبقى في المنزل البرتقالي. إذا كانت ميلا_+ني تمتلك 5 مكانس كهربائية متبقية، ف+_كم عدد المكانس التي بدأت بها؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "5",
+    "correct_answer": "18",
+    "is_correct": false
+  },
+  {
+    "index": 14,
+    "question": "في فصل رقص يضم 20 طالبًا، التحق 20٪ برقص معاصر، و25٪ من الباقين التحقوا برقص الجاز، وبقية الطلاب التحقوا برقص الهيب هوب. ما هي النسبة المئوية للطلاب المسجلين في رقص الهيب هوب؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: في فصل رقص يضم 20 طالبا، التحق 20٪ ب+_رقص معاصر، و25٪ من الباقين التحقوا ب+_رقص الجاز، و+_بقية الطلاب التحقوا ب+_رقص الهيب هوب. ما هي النسبة المئوية ل+_الطلاب المسجلين في رقص الهيب هوب؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 40% Answer: في فصل رقص يضم 20 طالبا، التحق 20٪ ب+_ر...",
+    "predicted_answer": "20",
+    "correct_answer": "60",
+    "is_correct": false
+  },
+  {
+    "index": 15,
+    "question": "يرغب تاجر في اختيار خطة شراء بين خطتين للشراء: مجوهرات بقيمة 5000 دولار أو أجهزة إلكترونية بقيمة 8000 دولار. يتوقع مستشاره المالي أن سوق المجوهرات سيرتفع بنسبة 2.5% في حين أن سوق الأجهزة الإلكترونية سيرتفع بنسبة 1.2% خلال نفس الشهر. إذا كان التاجر يسعى إلى تعظيم الربح في نهاية هذا الشهر من خلال القيام باختيار، فكم سيكون هذا الربح؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يرغب تاجر في اختيار خطة شراء بين خطتين للشراء: مجوهرات ب+_قيمة 5000 دولار أو أجهزة إلكتروني_+ه ب+_قيمة 8000 دولار. يتوقع مستشار_+ه المالي أن سوق المجوهرات س+_يرتفع ب+_نسبة 2.5% في حين أن سوق الأجهزة الإلكترونية س+_يرتفع ب+_نسبة 1.2% خلال نفس الشهر. إذا كان التاجر يسعى إلى تعظيم الربح في نهاية هذا الشهر من خلال القيام باختيار، ف+_كم س+_يكون هذا الربح؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "2",
+    "correct_answer": "125",
+    "is_correct": false
+  },
+  {
+    "index": 16,
+    "question": "تغادر قطاران سان رافائيل في نفس الوقت. ويبدآن السفر غربًا، حيث يسافر كل منهما مسافة 80 ميلاً. وفي اليوم التالي، يسافران شمالاً لمسافة 150 ميلاً. فما هي المسافة التي قطعها كل قطار خلال اليومين؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تغادر قطاران سان رافائيل في نفس الوقت. و+_يبدآن السفر غربا، حيث يسافر كل من_+هما مسافة 80 ميلا. و+_في اليوم التالي، يسافران شمالا ل+_مسافة 150 ميلا. ف+_ما هي المسافة التي قطع_+ها كل قطار خلال اليومين؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 240 Answer: في اليوم الأول، يقطع كل قطار 80 ميل غربا. في اليوم الثاني، يقطع كل قطار 150 ميل شمالا. لذا، المسافة الكلية التي قطع_+ها كل قطار خلال اليومين هي 80 + 150 = 230 ميل. لذا، قطع كل قطار 230 ميلا خلال اليومين. ",
+    "predicted_answer": "230",
+    "correct_answer": "230",
+    "is_correct": true
+  },
+  {
+    "index": 17,
+    "question": "تجني جيل 20 دولارًا للساعة مقابل التدريس و30 دولارًا مقابل العمل كمدربة تشجيع. إذا كانت تعمل 50 أسبوعًا في السنة، و35 ساعة في الأسبوع كمدرسة و15 ساعة في الأسبوع كمدربة، فما هو راتبها السنوي؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تجني جيل 20 دولارا ل+_الساعة مقابل التدريس و30 دولارا مقابل العمل ك+_مدرب_+ه تشجيع. إذا كانت تعمل 50 أسبوعا في السنة، و35 ساعة في الأسبوع ك+_مدرسة و15 ساعة في الأسبوع كمدربة، ف+_ما هو راتب_+ها السنوي؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 20 × 35 = 700 دولار في الأسبوع ك+_مدرسة و30 × 15 = 450 دولار في الأسبوع ك+_مدربة. في الأسبوع، تكسب 700 + 450 = 1150 دولار. في السنة (50 أسبوعا)، تكسب 1150 × 50 = 57,500 دولار. #### 57,500",
+    "predicted_answer": "500",
+    "correct_answer": "57500",
+    "is_correct": false
+  },
+  {
+    "index": 18,
+    "question": "تصنع كلير عجة من 3 بيضات كل صباح على الإفطار. فكم دزينة من البيض ستستهلك خلال 4 أسابيع؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تصنع كلير عج_+ه من 3 بيضات كل صباح على الإفطار. ف+_كم دزينة من البيض س+_تستهل_+ك خلال 4 أسابيع؟ (الدزينة تحتوي على 12 بيضة) Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 3 × 4 × 7 = 84 بيضة. لذا، س+_تستهل_+ك كلير 84 بيضة خلال 4 أسابيع. ",
+    "predicted_answer": "4",
+    "correct_answer": "7",
+    "is_correct": false
+  },
+  {
+    "index": 19,
+    "question": "تسير ماريسا على طريق طوله 12 ميلاً. استغرقت ساعة واحدة للمشي مسافة 4 أميال الأولى، ثم ساعة أخرى للمشي مسافة الميلين التاليين. إذا كانت تريد أن يكون متوسط سرعتها 4 أميال في الساعة، فما هي السرعة (بالميل في الساعة) التي تحتاجها للمشي في المسافة المتبقية؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تسير ماريسا على طريق طول_+ه 12 ميلا. استغرقت ساعة واحدة ل+_المشي مسافة 4 أميال الأولى، ثم ساعة أخرى ل+_المشي مسافة الميلين التاليين. إذا كانت تريد أن يكون متوسط سرعة_+ها 4 أميال في الساعة، ف+_ما هي السرعة (بالميل في الساعة) التي تحتاج_+ها ل+_المشي في المسافة المتبقية؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى مسافة المشي الكلية 12 أميال = 12 × 1.6 = 19.2 ميل. بعد المشي 4 أميال، تبقى 19.2 - 4 = 15.2 ميل. إذا كانت تريد أن تكون السرعة المتوسطة 4 أميال في الساعة، ف+_إن الوقت المطلوب ل+_الوصول إلى 15.2 ميل هو: 15.2 ÷ 2 = 7.6 ساعات. لذا، تحتاج ماريسا إلى سرعة تساوى 15.2 ÷ 7.6 ≈ 2 ميل في الساعة ل+_المشي في المسافة المتبقية. #### 2 ميل في الساعة ",
+    "predicted_answer": "2",
+    "correct_answer": "6",
+    "is_correct": false
+  },
+  {
+    "index": 20,
+    "question": "أمتلك 10 لترات من مشروب البرتقال الذي يحتوي على ثلثين من الماء وأرغب في إضافته إلى 15 لتراً من مشروب الأناناس الذي يحتوي على ثلاثة أخماس من الماء. لكنني أثناء صب المشروبين، سقط مني لتر واحد من مشروب البرتقال. كم تحتوي الـ24 لتراً المتبقية من الماء؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: أمتلك 10 لترات من مشروب البرتقال الذي يحتوي على ثلثين من الماء و+_أرغب في أضافت_+ه إلى 15 ل+_ترأ من مشروب الأناناس الذي يحتوي على ثلاثة أخماس من الماء. لكن_+ني أثناء صب المشروبين، سقط من_+ني ل+_تر واحد من مشروب البرتقال. كم تحتوي الـ24 ل+_ترأ المتبقية من الماء؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ل+_نبدأ بالمشروب البرتقال: - يحتوي على 3/2 = 1.5 ل+_تر من الماء ل+_كل ل+_تر من المشروب. - إذا سقط من_+ني ل+_تر واحد، ف+_إن_+ه ب+_قي 1.5 ل+_تر ل+_كل ل+_تر من المشروب. - لذا، لدى_+ك 10 ل+_ترات من المشروب البرتقال، و+_كل ل+_تر يحتوي على 1.5 ل+_تر من الماء، لذا يوجد 10 × 1",
+    "predicted_answer": "1",
+    "correct_answer": "15",
+    "is_correct": false
+  },
+  {
+    "index": 21,
+    "question": "ريمون وسمانثا أبناء عم. ولد ريمون قبل سمانثا بست سنوات. أنجب ريمون ابنه عندما كان عمره 23 عامًا. إذا كانت سمانثا الآن في الـ31 من عمرها، فكم كان عمر ابن ريمون عندما ولد؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: ريمون وسمانثا أبناء عم. ولد ريمون قبل سمانثا ب+_ست سنوات. أنجب ريمون ابن_+ه عند_+ما كان عمر_+ه 23 عاما. إذا كانت سمانثا الآن في الـ31 من عمرها، ف+_كم كان عمر ابن ريمون عند_+ما ولد؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, startingin with #### تساوى أعمار ريمون وسمانثا 23 + 7 = 30 عاما. الآن، إذا كانت سمانثا 31 عاما، ف+_إن عمر ابن ريمون عند_+ما ولد هو 30 - 7 = 23 عاما. #### 23",
+    "predicted_answer": "23",
+    "correct_answer": "14",
+    "is_correct": false
+  },
+  {
+    "index": 22,
+    "question": "يبيع بيلي أقراص دي في دي. لديه 8 عملاء يوم الثلاثاء. يشتري أول 3 عملاء قرصًا واحدًا لكل منهم. يشتري العميلان التاليان 2 من أقراص الدي في دي لكل منهما. لم يشتر آخر 3 عملاء أي أقراص دي في دي. كم قرص دي في دي باع بيلي يوم الثلاثاء؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يبيع بيل_+ي أقراص دي في دي. لدى_+ه 8 عملاء يوم الثلاثاء. يشتري أول 3 عملاء قرصا واحدا ل+_كل منهم. يشتري العميلان التاليان 2 من أقراص ألدي_+ي في دي ل+_كل منهما. لم يشتر آخر 3 عملاء أي أقراص دي في دي. كم قرص دي في دي باع بيل_+ي يوم الثلاثاء؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, startingi",
+    "predicted_answer": "3",
+    "correct_answer": "7",
+    "is_correct": false
+  },
+  {
+    "index": 23,
+    "question": "ينصهر شمعة بمقدار 2 سنتيمتر في كل ساعة من وقت اشتعالها. كم سينقص طول الشمعة بعد اشتعالها من الساعة 1 ظهراً حتى الساعة 5 مساءً؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: ينصهر شمع_+ه ب+_مقدار 2 سنتيمتر في كل ساعة من وقت اشتعالها. كم س+_ينقص طول الشمعة بعد اشتعال_+ها من الساعة 1 ظهرا حتى الساعة 5 مساء؟ (الإجابة: 4 ساعات) Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 4 ساعات Answer: المعطيات: 1. معدل الانصهار = 2 سنتيمتر في الساعة 2. مدة الإشتعال = 4 ساعات الخطوات: 1. حساب الانصهار الكلي: الانصهار = معدل الانصهار × مدة الإشتعال = 2 × 4 = 8 سنتيمتر. إذن، س+_ينقص طول الشمعة 8 سنتيمترات بعد 4",
+    "predicted_answer": "4",
+    "correct_answer": "8",
+    "is_correct": false
+  },
+  {
+    "index": 24,
+    "question": "اشترى كايل كتاب الأكثر مبيعاً للعام الماضي مقابل 19.50 دولار، وكان ذلك بخصم 25% من السعر الأصلي. فما كان السعر الأصلي للكتاب؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: اشترى كايل كتاب الأكثر مبيعا ل+_العام الماضي مقابل 19.50 دولار، و+_كان ذلك ب+_خصم 25% من السعر الأصلي. ف+_ما كان السعر الأصلي للكتاب؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 19.50 = x - 0.25x 19.50 = 0.75x 19.50 / 0.75 = x x = 26.00 إذن، كان السعر الأصلي ل+_الكتاب 26.00 دولار. ",
+    "predicted_answer": "00",
+    "correct_answer": "26",
+    "is_correct": false
+  },
+  {
+    "index": 25,
+    "question": "طلبت ماري وجبة دجاج واحدة تكلف 12 دولارًا، و5 عبوات حليب تكلف 3 دولارات لكل منها، و4 تفاحات تكلف 1.50 دولارًا لكل منها، وبعض علب البيتزا. دفعت ماري ما مجموعه 50 دولارًا. كم علبة بيتزا طلبت ماري إذا كانت كل علبة تكلف 8.50 دولارًا؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: طلبت ماري وجبة دجاج واحدة تكلف 12 دولارا، و5 عبوات حليب تكلف 3 دولارات ل+_كل منها، و4 تفاحات تكلف 1.50 دولارا ل+_كل منها، و+_ب+_عض علب البيتزا. دفعت ماري ما مجموع_+ه 50 دولارا. كم علبة بيتزا طلبت ماري إذا كانت كل علبة تكلف 8.50 دولارا؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "50",
+    "correct_answer": "2",
+    "is_correct": false
+  },
+  {
+    "index": 26,
+    "question": "اشترى ميشكا 3 أزواج من السراويل القصيرة و3 أزواج من السراويل الطويلة و3 أزواج من الأحذية. تبلغ تكلفة زوج واحد من السراويل القصيرة 16.50 دولارًا. وتبلغ تكلفة زوج واحد من السراويل الطويلة 22.50 دولارًا، وتبلغ تكلفة زوج واحد من الأحذية 42 دولارًا. كم أنفق ميشكا من الدولارات على جميع الملابس؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: اشترى ميشكا 3 أزواج من السراويل القصيرة و3 أزواج من السراويل الطويلة و3 أزواج من الأحذية. تبلغ تكلفة زوج واحد من السراويل القصيرة 16.50 دولارا. و+_تبلغ تكلفة زوج واحد من السراويل الطويلة 22.50 دولارا، و+_تبلغ تكلفة زوج واحد من الأحذية 42 دولارا. كم أنفق ميشكا من الدولارات على جميع الملابس؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "42",
+    "correct_answer": "243",
+    "is_correct": false
+  },
+  {
+    "index": 27,
+    "question": "تتناول سينثيا حصة واحدة من الآيس كريم كل ليلة. تشتري علب آيس كريم تحتوي على 15 حصة من الآيس كريم لكل علبة بسعر 4.00 دولارات أمريكية للعلبة. بعد 60 يومًا، كم ستنفق على الآيس كريم؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تتناول سينثيا حصة واحدة من الأيس كريم كل ليلة. تشتري علب أيس كريم تحتوي على 15 حصة من الأيس كريم ل+_كل علبة ب+_سعر 4.00 دولارات أمريكية للعلبة. بعد 60 يوما، كم س+_تنفق على الأيس كريم؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "60",
+    "correct_answer": "16",
+    "is_correct": false
+  },
+  {
+    "index": 28,
+    "question": "قام هنري بتوقفين خلال رحلة الدراجة التي بلغت 60 ميلًا. توقف لأول مرة بعد 20 ميلًا. وكان توقفه الثاني على بعد 15 ميلًا قبل نهاية الرحلة. كم ميل قطع بين توقفه الأول والثاني؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: قام هنري بتوقفين خلال رحلة الدراجة التي بلغت 60 ميلا. توقف ل+_أول مرة بعد 20 ميلا. و+_كان توقف_+ه الثاني على بعد 15 ميلا قبل نهاية الرحلة. كم ميل قطع بين توقف_+ه الأول والثاني؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 25 Answer: ل+_حساب المسافة المقطوعة بين التوقفين، نطرح المسافة التي قطع_+ها قبل التوقف الأول من المسافة التي قطع_+ها بعد التوقف الثاني. المسافة المقطوعة بين التوقفين = 60 - (20 + 15) = 60 - 35 = 25 ميل. إذن، قطع هنري 25 ميلا بين توقف_+ه الأول و+_الثاني خلال رحلة الدراجة. ",
+    "predicted_answer": "25",
+    "correct_answer": "25",
+    "is_correct": true
+  },
+  {
+    "index": 29,
+    "question": "عندما تذهب غلوريا للتسوق لشراء الأحذية، تجد زوجًا من الأحذية التي تناسب ميزانيتها. ومع ذلك، يتعين عليها الاختيار بين هذا الزوج من الأحذية وزوجين من الكعب العالي بتكلفة أقل بخمسة دولارات من زوج الأحذية. إذا كان أحد أزواج الكعب العالي يكلف 33 دولارًا والآخر يكلف ضعف ذلك، فما هو سعر الأحذية؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: عند_+ما تذهب غلوريا ل+_التسوق ل+_شراء الأحذية، تجد زوجا من الأحذية التي تناسب ميزانيتها. و+_مع ذلك، يتعين على_+ها الاختيار بين هذا الزوج من الأحذية و+_زوجين من الكعب العالي ب+_تكلفة أقل ب+_خمسة دولارات من زوج الأحذية. إذا كان أحد أزواج الكعب العالي يكلف 33 دولارا و+_الآخر يكلف ضعف ذلك، ف+_ما هو سعر الأحذية؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 33 Question: في حديقة حيوانات، يوجد 80 حيوانا. 40% من الحيوانات هي قرود، و25% من القرود هي قرد صغير. كم عدد القرود الصغيرة في الحديقة؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 32 Answer: المعطيات: 1. عدد الحيوانات في حديقة الحيوان = 80 2. نسبة القرود = 40% 3. نسبة القرود الصغيرة من القرود = 25% الخطوات: 1. حساب عدد القرود: عدد القرود = 40% من 80 = 0.4 × 80 = 32 قردا. 2. حساب عدد القرود الصغيرة: عدد القرود الصغيرة = 25% من 32 = 0.25 × 32 = 8 قردا. إذن، عدد القرود الصغيرة في الحديقة هو 8 قردا. ",
+    "predicted_answer": "8",
+    "correct_answer": "104",
+    "is_correct": false
+  },
+  {
+    "index": 30,
+    "question": "تبلغ أعمار داريل وألين نسبة 7:11. إذا كان مجموع عمريهما الآن 162، احسب عمر ألين بعد 10 سنوات من الآن.",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تبلغ أعمار داريل و+_الين نسبة 7:11. إذا كان مجموع عمري_+هما الآن 162، أحسب عمر الين بعد 10 سنوات من الآن. Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 10 Answer: المعطيات: 1. نسبة أعمار داريل و+_الين = 7:11 2. مجموع الأعمار = 162 الخطوات: 1. دع_+نا نمثل عمر داريل ب 7x و+_عمر الين ب 11x. 2. المعادلة: 7x + 11x = 162 3. حل x: 18x = 162 x = 162 ÷ 18 = 9. 4. حساب عمر الين الآن: عمر الين = 11x = 11 × 9 = 99 سنة. 3. حساب عمر الين بعد 10 سنوات: عمر الين بعد 10 سنوات = 99 + 10 = 109 سنوات. إذن، عمر الين بعد 10 سنوات هو 109 سنوات. ",
+    "predicted_answer": "109",
+    "correct_answer": "109",
+    "is_correct": true
+  },
+  {
+    "index": 31,
+    "question": "يحاول جونتر حساب عدد حلوى الهلام في برطمان. يسأل أصدقاءه عن عدد الحبات التي يعتقدون أنها في البرطمان. يقول أحدهم 80. يقول آخر 20 أكثر من نصف العدد الذي قاله الأول. ويقول ثالث أنها تزيد بنسبة 25% عن العدد الذي قاله الأول. ما هو متوسط تخمينهم؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يحاول جونتر حساب عدد حلوي_+ي الهلام في برطمان. يسأل أصدقاء_+ه عن عدد الحبات التي يعتقدون أن_+ها في البرطمان. يقول أحد_+هم 80. يقول آخر 20 أكثر من نصف العدد الذي قال_+ه الأول. و+_يقول ثالث أن_+ها تزيد ب+_نسبة 25% عن العدد الذي قال_+ه الأول. ما هو متوسط تخمينهم؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "25",
+    "correct_answer": "80",
+    "is_correct": false
+  },
+  {
+    "index": 32,
+    "question": "يقوم جون بالاعتناء بـ 10 كلاب. يحتاج كل كلب إلى 0.5 ساعة يوميًا للمشي والاعتناء به. فكم عدد الساعات التي يقضيها أسبوعيًا في الاعتناء بالكلاب؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يقوم جون ب+_الاعتناء ب 10 كلاب. يحتاج كل كلب إلى 0.5 ساعة يوميا ل+_المشي و+_الاعتناء به. ف+_كم عدد الساعات التي يقضي_+ها أسبوعيا في الاعتناء بالكلاب؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 5.6",
+    "predicted_answer": "6",
+    "correct_answer": "35",
+    "is_correct": false
+  },
+  {
+    "index": 33,
+    "question": "تملك غريتشن 110 عملات. هناك 30 عملة ذهبية أكثر من العملات الفضية. كم عدد العملات الذهبية التي تملكها غريتشن؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تملك غريتشن 110 عملات. هناك 30 عملة ذهبية أكثر من العملات الفضية. كم عدد العملات الذهبية التي تملك_+ها غريتشن؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "30",
+    "correct_answer": "70",
+    "is_correct": false
+  },
+  {
+    "index": 34,
+    "question": "لدي سيفان قطعتان من المجوهرات أقل من آرون. آرون لديه 5 قطع من المجوهرات أكثر من نصف مجوهرات ريموند. إذا كان لدى ريموند 40 قطعة من المجوهرات، فكم عدد قطع المجوهرات التي تملكها سيفان؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: لدى سيفان قطعتان من المجوهرات أقل من آرون. آرون لدى_+ه 5 قطع من المجوهرات أكثر من نصف مجوهرات ريموند. إذا كان لدى ريموند 40 قطعة من المجوهرات، ف+_كم عدد قطع المجوهرات التي تملك_+ها سيفان؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "40",
+    "correct_answer": "23",
+    "is_correct": false
+  },
+  {
+    "index": 35,
+    "question": "لعب مايك تنس الطاولة لمدة 40 دقيقة. في الدقائق العشرين الأولى، سجل 4 نقاط. في الدقائق العشرين التالية، سجل 25% نقاط أكثر. كم مجموع النقاط التي سجلها؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: لعب مايك تنس الطاولة ل+_مدة 40 دقيقة. في الدقائق العشرين الأولى، سجل 4 نقاط. في الدقائق العشرين التالية، سجل 25% نقاط أكثر. كم مجموع النقاط التي سجلها؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, startingin with #### 4 + (4 + 1) × 0.25 = 4 + 5 = 9 نقاط. #### 9",
+    "predicted_answer": "9",
+    "correct_answer": "9",
+    "is_correct": true
+  },
+  {
+    "index": 36,
+    "question": "يستهلك تيري علبتين من الزبادي يوميًا. حاليًا، يوجد عرض ترويجي يشمل أربع علب من الزبادي مقابل 5 دولارات. كم سينفق على الزبادي خلال 30 يومًا؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يستهلك تيري علبتين من الزبادي يوميا. حاليا، يوجد عرض ترويجي_+ي يشمل أربع علب من الزبادي مقابل 5 دولارات. كم س+_ينفق على الزبادي خلال 30 يوما؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 24 Answer: عدد العلب التي يستهلك_+ها تيري يوميا هو 2. لذا، في 30 يوما س+_يحتاج إلى 2 × 30 = 60 علبة. ب+_النظر إلى العرض الترويجي، يمكن_+ك شراء 4 علب مقابل 5 دولارات. لذا، تحتاج إلى 60 ÷ 4 ",
+    "predicted_answer": "4",
+    "correct_answer": "75",
+    "is_correct": false
+  },
+  {
+    "index": 37,
+    "question": "يخطط جون لبيع كل ألعابه واستخدام المال لشراء ألعاب فيديو. لديه 13 مجموعة من الليجو ويبيعها مقابل 15 دولارًا لكل مجموعة. ينتهي به الأمر بشراء 8 ألعاب فيديو مقابل 20 دولارًا لكل لعبة ويتبقى معه 5 دولارات. كم عدد مجموعات الليجو التي لا يزال يملكها؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يخطط جون ل+_بيع كل ألعاب_+ه و+_استخدام المال ل+_شراء ألعاب فيديو. لدى_+ه 13 مجموعة من الليجو و+_يبيع_+ها مقابل 15 دولارا ل+_كل مجموعة. ينتهي ب_+ه الأمر ب+_شراء 8 ألعاب فيديو مقابل 20 دولارا ل+_كل لعبة و+_يتبقى مع_+ه 5 دولارات. كم عدد مجموعات الليجو التي لا يزال يملكها؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting...",
+    "predicted_answer": "5",
+    "correct_answer": "2",
+    "is_correct": false
+  },
+  {
+    "index": 38,
+    "question": "يجري جون 60 ميلاً في الأسبوع. إنه يركض 3 أيام في الأسبوع. يركض لمدة 3 ساعات في اليوم الأول ونصف تلك المسافة في اليومين الآخرين اللذين يركض فيهما. ما هي سرعة جريه؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يجري جون 60 ميلا في الأسبوع. إن_+ه يركض 3 أيام في الأسبوع. يركض ل+_مدة 3 ساعات في اليوم الأول و+_نصف تلك المسافة في اليومين الآخرين اللذين يركض فيهما. ما هي سرعة جريه؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 60 ميلا في الأسبوع يساوي 60/7 = 8.57 ميل في اليوم. في اليوم الأول، يجري جون 3 ساعات، لذا يجري 8.57 ÷ 3 = 2.85 ميل في الساعة. في اليومين التاليين، يجري نصف المسافة، و+_هو 60 ÷ 2 = 30 ميل. لذا، يجري 30 ÷ (2 × 0.5) = 30 ÷ 1 = 30 ميل في الساعة. لذا، سرعة جري_+ه جون هي 30 ميل في الساعة. ",
+    "predicted_answer": "30",
+    "correct_answer": "10",
+    "is_correct": false
+  },
+  {
+    "index": 39,
+    "question": "تستطيع دانا الركض بسرعة تفوق سرعة مشيها بأربعة أضعاف، ولكنها تستطيع القفز بسرعة تساوي نصف سرعة ركضها. إذا كانت تستطيع القفز بسرعة 3 أميال في الساعة، فما هي المسافة التي يمكنها قطعها في ست ساعات إذا قضت ثلث الوقت في الركض وثلثي الوقت في المشي؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تستطيع دانا الركض ب+_سرعة تفوق سرعة مشي_+ها ب+_أربعة أضعاف، و+_لكن_+ها تستطيع القفز ب+_سرعة تساوى نصف سرعة ركضها. إذا كانت تستطيع القفز ب+_سرعة 3 أميال في الساعة، ف+_ما هي المسافة التي يمكن_+ها قطع_+ها في ست ساعات إذا قضت ثلث الوقت في الركض و+_ثلثي_+ي الوقت في المشي؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى سرعة الركض ل+_دان 4 × 4 = 8 أميال في الساعة. تساوى سرعة المشي 3 ÷ 2 = 1.5 أميال في الساعة. قطعت دانا ثلث الوقت (2小时) في الركض، و+_ثلثي_+ي الوقت (4 ساعات) في المشي. المسافة المقطوعة أثناء الركض هي 8 × 2 = 16 أميال. المسافة المقطوعة أثناء المشي هي 1.5 × 4 = 3 أميال. الإجمالي هو 16 + 3 = 19 أميال. #### 19 أميال",
+    "predicted_answer": "19",
+    "correct_answer": "18",
+    "is_correct": false
+  },
+  {
+    "index": 40,
+    "question": "هاتف براندون الآيفون هو أربع مرات أكبر من عمر هاتف بن الآيفون. هاتف بن الآيفون هو ضعف عمر هاتف سوزي الآيفون. إذا كان هاتف سوزي الآيفون عمره عام واحد، فكم عمر هاتف براندون الآيفون؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: هاتف براندون الآيفون هو أربع مرات أكبر من عمر هاتف بن الآيفون. هاتف بن الآيفون هو ضعف عمر هاتف سوزي الآيفون. إذا كان هاتف سوزي الآيفون عمر_+ه عام واحد، ف+_كم عمر هاتف براندون الآيفون؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 4 Answer: عمر هاتف سوزي الآيفون = 1 عام عمر هاتف بن الآيفون = 2 × عمر هاتف سوزي الآيفون = 2 × 1 = 2 عام عمر هاتف براندون الآيفون = 4 × عمر هاتف بن الآيفون = 4 ",
+    "predicted_answer": "4",
+    "correct_answer": "8",
+    "is_correct": false
+  },
+  {
+    "index": 41,
+    "question": "جلس التنين العظيم بيرغ على قمة جبل فاربو العالية، يتنفس النار على أي شيء ضمن نطاق 1000 قدم. كانت بولي قادرة على رمي الرمح الذهبي، وهو السلاح الوحيد المعروف الذي يمكنه صرع التنين، لمسافة 400 قدم، وهو ضمن نطاق لهيب التنين. ولكن عندما أمسكت بولي بحجر الياقوت، استطاعت رمي الرمح ثلاثة أضعاف المسافة مقارنة بالرمي دون حمل حجر الياقوت. إذا حملت حجر الياقوت، فما هي المسافة التي يمكن لبولي الوقوف فيها خارج نطاق لهيب التنين مع الاستمرار في إصابة التنين بالرمح الذهبي؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: جلس التنين العظيم بيرغ على قمة جبل ف+_أربو العالية، يتنفس النار على أي شيء ضمن نطاق 1000 قدم. كانت بولي قادرة على رمي الرمح الذهبي، و+_هو السلاح الوحيد المعروف الذي يمكن_+ه صرع التنين، ل+_مسافة 400 قدم، و+_هو ضمن نطاق لهيب التنين. و+_لكن عند_+ما أمسكت بولي ب+_حجر الياقوت، استطاعت رمي الرمح ثلاثة أضعاف المسافة مقارنة ب+_الرمي دون حمل حجر الياقوت. إذا حملت حجر الياقوت، ف+_ما هي المسافة التي يمكن ل+_بولي الوقوف في_+ها خارج نطاق لهيب التنين مع الاستمرار في إصابة التنين ب+_الرمح الذهبي؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting... Answer: المعطيات: 1. المسافة التي يمكن رمي الرمح ب+_دون حجر الياقوت = 400 قدم. 2. نسبة زيادة المسافة عند حمل حجر الياقوت = 3. الخطوات: 1. حساب المسافة عند حمل حجر الياقوت: 400 × 3 = 1200 قدم. إذن، ب+_النظر إلى البيانات و+_العمليات، يمكن ل+_بولي الوقوف في_+ه 1200 قدم خارج نطاق لهيب التنين. ",
+    "predicted_answer": "1200",
+    "correct_answer": "200",
+    "is_correct": false
+  },
+  {
+    "index": 42,
+    "question": "أعدت الجدة جونز 5 فطائر تفاح لوجبة غداء رجل الإطفاء. قطعت كل فطيرة إلى 8 قطع ووضعت الفطائر الخمس على طاولة البوفيه ليتناول الضيوف بأنفسهم. في نهاية المساء، بعد أن أخذ الضيوف قطع الفطيرة وأكلوها، تبقت 14 قطعة من الفطيرة. كم عدد القطع التي أخذها الضيوف؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: أعدت الجدة جونز 5 ف+_طائر تفاح ل+_وجبة غداء رجل الإطفاء. قطعت كل ف+_طير_+ه إلى 8 قطع و+_وضعت الفطائر الخمس على طاولة البوفيه ل+_يتناول الضيوف بأنفسهم. في نهاية المساء، بعد أن أخذ الضيوف قطع الفطيرة وأكلوها، تبقت 14 قطعة من الفطيرة. كم عدد القطع التي أخذ_+ها الضيوف؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "14",
+    "correct_answer": "26",
+    "is_correct": false
+  },
+  {
+    "index": 43,
+    "question": "وفقاً للمعلومات الغذائية الموضحة على كيس رقائق البطاطس، يحتوي كل كيس على 250 سعرة حرارية. إذا كان كيس بوزن 300 جرام يحتوي على 5 حصص، فكم جراماً يمكنك تناوله إذا كان هدفك اليومي من السعرات الحرارية هو 2000 وقد استهلكت بالفعل 1800 سعرة حرارية؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: وفقا ل+_المعلومات الغذائية الموضحة على كيس رقائق البطاطس، يحتوي كل كيس على 250 سعر_+ه حرارية. إذا كان كيس ب+_وزن 300 جرام يحتوي على 5 حصص، ف+_كم جراما يمكن_+ك تناول_+ه إذا كان هدف_+ك اليومي من السعرات الحرارية هو 2000 و+_قد استهلكت ب+_الفعل 1800 سعر_+ه حرارية؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 2000 - 1800 = 200 سعر_+ه حرارية متبقي_+ه ل+_اليوم = 200 / 250 = 0.8 كيس من الرقائق. لذا، يمكن_+ك تناول 0.8 كيس من الرقائق. ",
+    "predicted_answer": "8",
+    "correct_answer": "48",
+    "is_correct": false
+  },
+  {
+    "index": 44,
+    "question": "يرغب تشارلي في بيع شموع شمع العسل. فمن كل رطل من شمع العسل، يمكنه صنع 10 شموع مخروطية. يكلف رطل شمع العسل والخيوط 10.00 دولارات من اللوازم. إذا باع كل شمعة مقابل 2.00 دولار، فما هو صافي ربحه إذا صنع وباع 20 شمعة؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يرغب تشارلي في بيع شموع شمع العسل. ف+_من كل رطل من شمع العسل، يمكن_+ه صنع 10 شموع مخروطية. يكلف رطل شمع العسل و+_الخيوط 10.00 دولارات من اللوازم. إذا باع كل شمع_+ه مقابل 2.00 دولار، ف+_ما هو صافي ربح_+ه إذا صنع و+_باع 20 شمعة؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى تكلفة كل رطل من شمع العسل و+_الخيوط 10.00 دولارات. إذا صنع تشارلي 20 شمعة، ف+_إن التكلفة الإجمالية ل+_اللوازم هي 20 × 10.00 = 200 دولار. إذا باع كل شمع_+ه مقابل 2.00 دولار، ف+_إن الربح من بيع 20 شمعة هو 20 × 2.00 = 40 دولار. لذا، صافي الربح هو 40 - 200 = -160 دولار. (هذا يعني أن تشارلي خسر 160 دولار.) #### -160 ",
+    "predicted_answer": "160",
+    "correct_answer": "20",
+    "is_correct": false
+  },
+  {
+    "index": 45,
+    "question": "ميريديث مدونة مستقلة تكتب حول مواضيع صحية وتقدمها لعملائها يوميًا كعملها الدائم. تستغرق كتابة مقال مدونة متوسط 4 ساعات للبحث والكتابة. في الأسبوع الماضي، كتبت 5 مقالات يوم الاثنين، و2/5 مقالات أكثر يوم الثلاثاء مقارنة بيوم الاثنين. وفي يوم الأربعاء، كتبت ضعف عدد المقالات التي كتبتها يوم الثلاثاء. احسب العدد الإجمالي لساعات الكتابة التي قضتها في كتابة المقالات خلال الأيام الثلاثة.",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: ميريديث مدون_+ه مستقلة تكتب حول مواضيع صحية و+_تقدم_+ها ل+_عملاء_+ها يوميا ك+_عمل_+ها الدائم. تستغرق كتابة مقال مدون_+ه متوسط 4 ساعات ل+_البحث والكتابة. في الأسبوع الماضي، كتبت 5 مقالات يوم الاثنين، و2/5 مقالات أكثر يوم الثلاثاء مقارنة ب+_يوم الاثنين. و+_في يوم الأربعاء، كتبت ضعف عدد المقالات التي كتبت_+ها يوم الثلاثاء. أحسب العدد الإجمالي ل+_ساعات الكتابة التي قضت_+ها في كتابة المقالات خلال الأيام الثلاثة. Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "5",
+    "correct_answer": "104",
+    "is_correct": false
+  },
+  {
+    "index": 46,
+    "question": "وضعت كانديس 80 مذكرة لاصقة في حقيبتها قبل أن تتوجه إلى عملها في مقهى. وفي طريقها، توقفت في المتجر واشترت عبوة من الملاحظات اللاصقة. في العمل، وضعت ملاحظة لاصقة واحدة على كل كوب من 220 كوب قهوة مختلف. إذا ظل لديها ما مجموعه 23 ملاحظة لاصقة، فكم عدد الملاحظات اللاصقة الموجودة بالعبوة التي اشترتها؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: وضعت كانديس 80 مذكرة لاصق_+ه في حقيبة_+ها قبل أن تتوجه إلى عمل_+ها في مقهى. و+_في طريقها، توقفت في المتجر و+_اشترت عبوة من الملاحظات اللاصقة. في العمل، وضعت ملاحظة لاصق_+ه واحدة على كل ك+_وب من 220 ك+_وب قهوة مختلف. إذا ظل لدى_+ها ما مجموع_+ه 23 ملاحظة لاصقة، ف+_كم عدد الملاحظات اللاصقة الموجودة ب+_العبوة التي اشترتها؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 80 - 22 = 58 ملاحظة. إذن، كانت العبوة تحتوي على 58 ملاحظة. ",
+    "predicted_answer": "58",
+    "correct_answer": "163",
+    "is_correct": false
+  },
+  {
+    "index": 47,
+    "question": "اشترى جون من ربطات العنق الحمراء ضعف ما اشتراه من ربطات العنق الزرقاء. تكلف ربطات العنق الحمراء 50% أكثر من ربطات العنق الزرقاء. أنفق 200 دولار على ربطات العنق الزرقاء التي تكلف 40 دولارًا لكل منها. كم أنفق على ربطات العنق؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: اشترى جون من ربطات العنق الحمراء ضعف ما اشترى_+ه من ربطات العنق الزرقاء. تكلف ربطات العنق الحمراء 50% أكثر من ربطات العنق الزرقاء. أنفق 200 دولار على ربطات العنق الزرقاء التي تكلف 40 دولارا ل+_كل منها. كم أنفق على ربطات العنق؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 200 - Answer: المعطيات: 1. تكلفة ربطات العنق الزرقاء = 40 دولارا ل+_كل منها (1) 2. عدد ربطات العنق الزررا = 200 دولار (2) الخطوات: 1. حساب تكلفة ربطات العنق الحمراء: - تكلفة ربطات العنق الحمراء = 4 × 40 = 80 دولارا ل+_كل منها. 2. حساب إجمالي تكلفة ربطات العنق: - إجمالي تكلفة ربطات العنق = 2 × 80 = 160 دولار. إذن، أنفق جون 160 دولارا على ربطات العنق. ",
+    "predicted_answer": "160",
+    "correct_answer": "800",
+    "is_correct": false
+  },
+  {
+    "index": 48,
+    "question": "استخدمت تريسي سلكًا بطول 4 أقدام لدعم نباتات الطماطم في الحديقة. وقُطع السلك إلى قطع طول كل منها 6 بوصات. فكم قطعة حصلت عليها؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: استخدمت تريسي سلكا ب+_طول 4 أقدام ل+_دعم نباتات الطماطم في الحديقة. و+_قطع السلك إلى قطع طول كل من_+ها 6 بوصات. ف+_كم قطعة حصلت عليها؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 4 × 6 = 24 بوصة. 24 بوصة ÷ 6 ب+_وصات ل+_كل قطعة = 4 قطع. #### 4",
+    "predicted_answer": "4",
+    "correct_answer": "8",
+    "is_correct": false
+  },
+  {
+    "index": 49,
+    "question": "يعيش ريتشارد في مبنى سكني مكون من 15 طابقًا. يحتوي كل طابق على 8 وحدات، ويشغل 3/4 المبنى. ما هو إجمالي عدد الوحدات غير المشغولة في المبنى؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يعيش ريتشارد في مبنى سكني مكون من 15 طابقا. يحتوي كل طابق على 8 وحدات، و+_يشغل 3/4 المبنى. ما هو إجمالي عدد الوحدات غير المشغولة في المبنى؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 15 Answer: إجمالي عدد الوحدات في المبنى = 15 × 8 = 120 وحدة. عدد الوحدات المشغولة = 3/4 × 120 = 90 وحدة. عدد الوحدات غير المشغولة = 120 - 90 = 30 وحدة. إذن، إجمالي عدد الوحدات غير المشغولة في المبنى هو 30 وحدة. ",
+    "predicted_answer": "30",
+    "correct_answer": "30",
+    "is_correct": true
+  },
+  {
+    "index": 50,
+    "question": "يمتلك لويد مزرعة للدواجن. تنتج دجاجاته 252 بيضة يوميًا ويبيعها مقابل 2 دولار لكل دزينة. كم يكسب لويد من البيض أسبوعيًا؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يمتلك لويد مزرعة للدواجن. تنتج دجاجاته 252 بيضة يوميا و+_يبيع_+ها مقابل 2 دولار ل+_كل دزينة. كم يكسب لويد من البيض أسبوعيا؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 252 بيضة يوميا يعني 252 × 7 = 1764 بيضة أسبوعيا. نظرا ل+_أن الدزينة تحتوي على 12 بيضة، ف+_إن عدد الدزينات هو 1764 ÷ 12 = 143 دزينة. لذا، يكسب لويد 113 × 2 = 226 دولار أسبوعيا. #### 226",
+    "predicted_answer": "226",
+    "correct_answer": "294",
+    "is_correct": false
+  },
+  {
+    "index": 51,
+    "question": "يمكن لسفينة توم أن تسير بسرعة 10 أميال في الساعة. وهو يبحر من الساعة 1 ظهراً حتى الساعة 4 عصراً. ثم يعود بسرعة 6 أميال في الساعة. كم من الوقت يستغرق للعودة؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يمكن ل+_سفينة توم أن تسير ب+_سرعة 10 أميال في الساعة. و+_هو يبحر من الساعة 1 ظهرا حتى الساعة 4 عصرا. ثم يعود ب+_سرعة 6 أميال في الساعة. كم من الوقت يستغرق للعودة؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى المسافة التي قطع_+ها توم في الذهاب 10 أميال في الساعة × 3 ساعات = 30 أميال. ل+_حساب الوقت المستغرق للعودة، نقسم المسافة على سرعة العودة: 30 أميال ÷ 6 أميال في الساعة = 5 ساعات. إذن، استغرقت توم 5 ساعات ل+_العودة إلى المنزل. #### 5 ",
+    "predicted_answer": "5",
+    "correct_answer": "5",
+    "is_correct": true
+  },
+  {
+    "index": 52,
+    "question": "حقيبة ظهر أوريا أصبحت ثقيلة للغاية بالنسبة له. يحتاج إلى إزالة 15 رطلًا منها. تزن كتب الكوميديا ربع رطل لكل منها، وتزن اللعب نصف رطل لكل منها. إذا أزال 30 كتابًا هزليًا، فكم عدد الألعاب التي يجب أن يزيلها؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: حقيبة ظهر أوريا أصبحت ثقيلة ل+_الغاية ب+_النسبة له. يحتاج إلى إزالة 15 رطلا منها. تزن كتب الكوميديا ربع رطل ل+_كل منها، و+_تزن اللعب نصف رطل ل+_كل منها. إذا أزال 30 كتابا هزليا، ف+_كم عدد الألعاب التي يجب أن يزيلها؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 15 Answer: ل+_نحسب وزن الكتب الهزلية: وزن الكتب الهزلية = 30 × (1/4) = 30/4 = 7.5 رطلا. ل+_نحسب الوزن المتبقي بعد إزالة الكتب الهزلية: الوزن المتبقي = 15 - 7.5 = 7.5 رطلا. ل+_نحسب عدد الألعاب التي يجب إزالتها: عدد الألعاب = 7.5 ÷ (1/2) = 7.5 × 2 = 15 لعبة. إذن، يحتاج أوريا إلى إزالة 1",
+    "predicted_answer": "1",
+    "correct_answer": "15",
+    "is_correct": false
+  },
+  {
+    "index": 53,
+    "question": "يفرض ميكانيكي أسعاراً مختلفة لإصلاح إطارات الشاحنات والسيارات. بالنسبة لكل إطار شاحنة يتم إصلاحه، يفرض الميكانيكي 60 دولارًا، وبالنسبة لكل إطار سيارة يتم إصلاحه، يفرض الميكانيكي 40 دولارًا. في يوم الخميس، قام الميكانيكي بإصلاح 6 إطارات شاحنات و4 إطارات سيارات. وفي يوم الجمعة، قام الميكانيكي بإصلاح 12 إطار سيارة ولم يصلح أي إطارات شاحنات. كم كان دخل الميكانيكي أعلى في اليوم الذي حقق فيه إيرادات أكبر؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يفرض ميكانيكي أسعارا مختلفة ل+_إصلاح إطارات الشاحنات والسيارات. ب+_النسبة ل+_كل إطار شاحنة يتم إصلاحه، يفرض الميكانيكي 60 دولارا، و+_ب+_النسبة ل+_كل إطار سيارة يتم إصلاحه، يفرض الميكانيكي 40 دولارا. في يوم الخميس، قام الميكانيكي ب+_إصلاح 6 إطارات شاحنات و4 إطارات سيارات. و+_في يوم الجمعة، قام الميكانيكي ب+_إصلاح 12 إطار سيارة و+_لم يصلح أي إطارات شاحنات. كم كان دخل الميكانيكي أعلى في اليوم الذي حقق في_+ه إيرادات أكبر؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting...",
+    "predicted_answer": "12",
+    "correct_answer": "40",
+    "is_correct": false
+  },
+  {
+    "index": 54,
+    "question": "تعود شقيقات دوتفاير إلى المنزل بسبعة قطط صغيرة تم تبنيها من مأوى الحيوانات المحلي عندما تتصل بهن والدتهن لإبلاغهن بأن قطتيهما المنزليتين قد أنجبتا للتو قططا صغيرة. وتقول إن باتشي، القطة الأولى، أنجبت ثلاثة أضعاف عدد القطط الصغيرة المتبناة، بينما أنجبت تريسي، القطة الأخرى، 12 قطة صغيرة. فكم عدد القطط الصغيرة التي لدى عائلة دوتفاير الآن؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تعود شقيقات دوتفاير إلى المنزل ب+_سبعة قطط صغيرة تم تبني_+ها من مأوى الحيوانات المحلي عند_+ما تتصل ب_+هن والدة_+هن ل+_إبلاغ_+هن ب+_أن قطتي_+هما المنزليتين قد أنجبتا ل+_التو قططا صغيرة. و+_تقول إن باتشي، القطة الأولى، أنجبت ثلاثة أضعاف عدد القطط الصغيرة المتبناة، بينما أنجبت تريسي، القطة الأخرى، 12 قط_+ه صغيرة. ف+_كم عدد القطط الصغيرة التي لدى عائلة دوتفاير الآن؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "12",
+    "correct_answer": "40",
+    "is_correct": false
+  },
+  {
+    "index": 55,
+    "question": "لدى جان 30 مصاصة. تأكل جان اثنتين من المصاصات. مع المصاصات المتبقية، تريد جان أن تحزم مصاصتين في كيس واحد. كم عدد الأكياس التي يمكن لجان ملؤها؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: لدى جان 30 مصاصة. تأكل جان ٱثنتين من المصاصات. مع المصاصات المتبقية، تريد جان أن تحزم مصاصتين في كيس واحد. كم عدد الأكياس التي يمكن لجان ملؤها؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أعداد المصاصات المتبقية 30 - 2 = 28 مصاصة. تمتلك جان 28 مصاصة و+_يمكن_+ها حزم 2 في كيس واحد. لذا، يمكن_+ها ملء 28 ÷ 2 = 14 كيسا. #### 14 ",
+    "predicted_answer": "14",
+    "correct_answer": "14",
+    "is_correct": true
+  },
+  {
+    "index": 56,
+    "question": "يخطط بيتر للذهاب إلى السينما هذا الأسبوع. فهو يشتري تذكرة بـ 7 دولارات وفشارًا بـ 7 دولارات دائمًا. إذا كان لديه 42 دولارًا لهذا الأسبوع، فكم مرة يمكنه الذهاب إلى السينما؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يخطط بيتر ل+_الذهاب إلى السينما هذا الأسبوع. ف+_هو يشتري تذكر_+ه ب 7 دولارات و+_فشارا ب 7 دولارات دائما. إذا كان لدى_+ه 42 دولارا ل+_هذا الأسبوع، ف+_كم مرة يمكن_+ه الذهاب إلى السينما؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 42 ÷ (7 + 7) = 3.5. بما أن عدد المرات يجب أن يكون عددا صحيحا، ف+_إن بيتر يمكن_+ه الذهاب إلى السينما 3 مرات هذا الأسبوع. #### 3 ",
+    "predicted_answer": "3",
+    "correct_answer": "3",
+    "is_correct": true
+  },
+  {
+    "index": 57,
+    "question": "يمكن لجسر خشبي أن يتحمل ما لا يزيد عن 5000 رطل. ستمر شاحنة تسليم محملة بصناديق متطابقة، يبلغ وزن كل منها 15 رطلاً، فوق الجسر. يبلغ الوزن الإجمالي للسائق والشاحنة الفارغة 3755 رطلاً. ما هو الحد الأقصى لعدد الصناديق التي يمكن تحميلها على الشاحنة دون تجاوز حد الوزن المسموح به للجسر؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يمكن ل+_جسر خشب_+ي أن يتحمل ما لا يزيد عن 5000 رطل. س+_تمر شاحنة تسليم محملة ب+_صناديق متطابقة، يبلغ وزن كل من_+ها 15 رطلا، فوق الجسر. يبلغ الوزن الإجمالي ل+_السائق و+_الشاحنة الفارغة 3755 رطلا. ما هو الحد الأقصى ل+_عدد الصناديق التي يمكن تحميل_+ها على الشاحنة دون تجاوز حد الوزن المسموح ب_+ه للجسر؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ل+_نحسب الحد الأقصى ل+_عدد الصناديق: الوزن الإجمالي ل+_الشاحنة المحملة = 5000 رطلا الوزن الإجمالي ل+_السائق و+_الشاحنة الفارغة = 3755 رطلا الوزن الإضافي ل+_كل صندوق = 15 رطلا ل+_نجد عدد الصناديق التي يمكن تحميلها: الوزن الإضافي ل+_الصناديق = 5000 - 3755 = 1245 رطلا عدد الصناديق = 1245 ÷ 15 = 83.00 إذن، الحد الأقصى ل+_عدد الصناديق التي يمكن تحميل_+ها هو 83 صندوقا. ",
+    "predicted_answer": "83",
+    "correct_answer": "83",
+    "is_correct": true
+  },
+  {
+    "index": 58,
+    "question": "وضع ستيفن طلبًا عبر الإنترنت للبقالة. بلغت فاتورته النهائية 40.00 دولارًا. ونظرًا لأنه تم ذلك من خلال شركة توصيل، فقد أضافوا رسومًا بنسبة 25٪ على إجمالي المبلغ النهائي وفرضوا عليه 3.00 دولار كرسوم توصيل. وأضاف ستيفن أيضًا بقشيشًا قدره 4.00 دولار. بعد الرسوم الإضافية، ما هو السعر النهائي لبقالة ستيفن؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: وضع ستيفن طلبا عبر الإنترنت للبقالة. بلغت فاتورة_+ه النهائية 40.00 دولارا. و+_نظرا ل+_أن_+ه تم ذلك من خلال شركة توصيل، ف+_قد أضافوا رسوما ب+_نسبة 25٪ على إجمالي المبلغ النهائي و+_فرضوا على_+ه 3.00 دولار ك+_رسوم توصيل. و+_أضاف ستيفن أيضا بقشيشا قدر_+ه 4.00 دولار. بعد الرسوم الإضافية، ما هو السعر النهائي ل+_بقال_+ه ستيفن؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting... Answer: الخطوة 1: حساب رسوم التوصيل: 25% من 40.00 = 0.25 × 4= 10. الخطوة 2: حساب السعر النهائي: 4+ +3.00 (رسوم التوصيل) + 4.00 (بقشيش) = 7.00 دولار. إذن، السعر النهائي ل+_بقال_+ه ستيفن هو 7.00 دولار. ",
+    "predicted_answer": "00",
+    "correct_answer": "57",
+    "is_correct": false
+  },
+  {
+    "index": 59,
+    "question": "تحتوي شجيرة توت العليق على 6 مجموعات، كل منها يحتوي على 20 ثمرة، و67 ثمرة فردية منتشرة على الشجيرة. ما هو العدد الإجمالي لثمار التوت؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تحتوي شجيرة توت العليق على 6 مجموعات، كل من_+ها يحتوي على 20 ثمرة، و67 ثمرة فردية منتشرة على الشجيرة. ما هو العدد الإجمالي ل+_ثمار التوت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 6 × 20 + 67 = 120 + 67 = 187 ثمرة. ",
+    "predicted_answer": "187",
+    "correct_answer": "187",
+    "is_correct": true
+  },
+  {
+    "index": 60,
+    "question": "يحتوي سلة على 25 برتقالة منها واحدة فاسدة، و20٪ غير ناضجة، واثنتان حامضتان، أما الباقي فهي جيدة. كم عدد البرتقال الجيد؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يحتوي سلة على 25 برتقال_+ه من_+ها واحدة فاسدة، و20٪ غير ناضجة، و+_ٱثنتان حامضتان، أما الباقي ف+_هي جيدة. كم عدد البرتقال الجيد؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 25 - 1 = 24 برتقال_+ه غير فاسدة. - 20% من 24 = 4.8، و+_بما أن العدد يجب أن يكون صحيحا، نأخذ 5 برتقالات غير ناضجة. - 2 برتقال_+ه حامضتان. - 24 - 5 - 2 = 17 برتقال_+ه جيدة. #### 17 ",
+    "predicted_answer": "17",
+    "correct_answer": "17",
+    "is_correct": true
+  },
+  {
+    "index": 61,
+    "question": "اشترت جانيت بروش لابنتها. دفعت 500 دولار مقابل المواد لصنعها ثم 800 دولار أخرى لصانع المجوهرات لتصميمها. بعد ذلك، دفعت 10% من إجمالي السعر للتأمين عليها. كم دفعت في المجمل؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: اشترت جانيت بروش لابنتها. دفعت 500 دولار مقابل المواد ل+_صنع_+ها ثم 800 دولار أخرى ل+_صانع المجوهرات لتصميمها. بعد ذلك، دفعت 10% من إجمالي السعر ل+_التأمين عليها. كم دفعت في المجمل؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 500 + 800 = 1300 دولار. 10% من 1300 دولار = 0.1 × 1300 = 130 دولار. 1300 + 130 = 1430 دولار. #### 1430 ",
+    "predicted_answer": "1430",
+    "correct_answer": "1430",
+    "is_correct": true
+  },
+  {
+    "index": 62,
+    "question": "إذا عملت مارس في نفس الشركة لمدة 40 عاما، فستحصل على معاش سنوي قدره 50,000 دولار/سنويا. بدءا من بعد 20 عاما، ستصبح مستحقة لـ 5% من قيمة المعاش لكل عام. إذا استقالت بعد 30 عاما، فما هو معاشها السنوي؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: إذا عملت مارس في نفس الشركة ل+_مدة 40 عاما، ف+_س+_تحصل على معاش سنوي قدر_+ه 50,000 دولار/سنويا. بدءا من بعد 20 عاما، س+_تصبح مستحقة ل 5% من قيمة المعاش ل+_كل عام. إذا استقالت بعد 30 عاما، ف+_ما هو معاش_+ها السنوي؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 50,000 - 5% من 50,000 = 50,000 - 2,500 = 47,500 دولار/سنة. #### 47,500 ",
+    "predicted_answer": "500",
+    "correct_answer": "25000",
+    "is_correct": false
+  },
+  {
+    "index": 63,
+    "question": "اشتركت أليينا في خدمة بث تكلفها 140 دولارًا شهريًا. إذا كانت شركة البث قد احتسبت عليها المبلغ الأولي للنصف الأول من العام، ثم احتسبت عليها مبلغًا أقل بنسبة 10٪ في النصف الثاني من العام، احسبي إجمالي المبلغ الذي دفعته مقابل خدمة البث بحلول نهاية العام.",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: اشتركت آليي_+نا في خدمة بث تكلف_+ها 140 دولارا شهريا. إذا كانت شركة البث قد احتسبت على_+ها المبلغ الأولى ل+_النصف الأول من العام، ثم احتسبت على_+ها مبلغا أقل ب+_نسبة 10٪ في النصف الثاني من العام، احسبي إجمالي المبلغ الذي دفعت_+ه مقابل خدمة البث ب+_حلول نهاية العام. Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, startingi",
+    "predicted_answer": "10",
+    "correct_answer": "1596",
+    "is_correct": false
+  },
+  {
+    "index": 64,
+    "question": "تفكر صوفيا في القيام برحلة على الطريق بسيارتها، وتريد أن تعرف المسافة التي يمكنها قيادتها بخزان وقود واحد. لقد سافرت 100 ميل منذ آخر مرة ملأت فيها خزان الوقود، واحتاجت إلى وضع 4 غالونات من الوقود لملئه مرة أخرى. دليل مالك السيارة الخاص بها يقول إن خزانها يحمل 12 غالونًا من الوقود. كم ميلاً يمكن أن تقود صوفيا بخزان وقود واحد؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تفكر صوفيا في القيام ب+_رحلة على الطريق بسيارتها، و+_تريد أن تعرف المسافة التي يمكن_+ها قيادة_+ها ب+_خزان وقود واحد. ل+_قد سافرت 100 ميل منذ آخر مرة ملأت في_+ها خزان الوقود، و+_احتاجت إلى وضع 4 غالونات من الوقود ل+_ملئ_+ه مرة أخرى. دليل مالك السيارة الخاص ب_+ها يقول إن خزان_+ها يحمل 12 غالوا_+نا من الوقود. كم ميلا يمكن أن تقود صوفيا ب+_خزان وقود واحد؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "12",
+    "correct_answer": "300",
+    "is_correct": false
+  },
+  {
+    "index": 65,
+    "question": "يقضي جيم ساعتين في مشاهدة التلفاز ثم يقرر الذهاب إلى النوم والقراءة لمدة نصف المدة. يفعل ذلك ثلاث مرات في الأسبوع. فكم ساعة يقضيها في مشاهدة التلفاز والقراءة خلال 4 أسابيع؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يقضي جيم ساعتين في مشاهدة التلفاز ثم يقرر الذهاب إلى النوم و+_القراءة ل+_مدة نصف المدة. يفعل ذلك ثلاث مرات في الأسبوع. ف+_كم ساعة يقضي_+ها في مشاهدة التلفاز و+_القراءة خلال 4 أسابيع؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 2 × 2 = 4 ساعات في اليوم. 4 × 3 = 12 ساعة في الأسبوع. 12 × 4 = 48 ساعة في 4 أسابيع. إذن، يقضي جيم 48 ساعة في مشاهدة التلفاز و+_القراءة خلال 4 أسابيع. ",
+    "predicted_answer": "4",
+    "correct_answer": "36",
+    "is_correct": false
+  },
+  {
+    "index": 66,
+    "question": "تتنافس أربع مدارس في بطولة كرة سلة. أرسلت كل مدرسة فريق كرة سلة للفتيات وفريق كرة سلة للفتيان، ويتكون كل فريق من 5 لاعبين. كما أرسلت كل مدرسة أيضًا مدربًا لكل فريق. ما هو إجمالي عدد الأشخاص الذين أرسلتهم جميع المدارس؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تتنافس أربع مدارس في بطولة كرة سلة. أرسلت كل مدرسة فريق كرة سلة ل+_الفتيات و+_فريق كرة سلة للفتيان، و+_يتكون كل فريق من 5 لاعبين. كما أرسلت كل مدرسة أيضا مدربا ل+_كل فريق. ما هو إجمالي عدد الأشخاص الذين أرسلت_+هم جميع المدارس؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 4 × (2 × 5) = 40 شخص. ",
+    "predicted_answer": "40",
+    "correct_answer": "48",
+    "is_correct": false
+  },
+  {
+    "index": 67,
+    "question": "عثر صائد كنوز على صندوق كنز مدفون مليء بالجواهر. كان هناك 175 ماسة، و35 ياقوتة أقل من الماسات، وضِعف عدد الزمرد من الياقوت. كم عدد الجواهر الموجودة في الصندوق؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: عثر صائد كنوز على صندوق كنز مدفون مليء بالجواهر. كان هناك 175 ماسة، و35 ياقوت_+ه أقل من الماسات، و+_ضعف عدد الزمرد من الياقوت. كم عدد الجواهر الموجودة في الصندوق؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 175 + 35 + (2 × عدد الزمرد) = العدد الكلي للجواهر. نحتاج إلى معلومات إضافية أو شروط أخرى ل+_تحديد العدد الدقيق للجواهر. ",
+    "predicted_answer": "2",
+    "correct_answer": "595",
+    "is_correct": false
+  },
+  {
+    "index": 68,
+    "question": "يوجد ضعف عدد الأولاد مقارنة بالفتيات في مدرسة الدكتور ويرتز. إذا كان هناك 60 فتاة و5 طلاب لكل معلم، فكم يوجد من المعلمين؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يوجد ضعف عدد الأولاد مقارنة ب+_الفتيات في مدرسة الدكتور ويرتز. إذا كان هناك 60 فتاة و5 طلاب ل+_كل معلم، ف+_كم يوجد من المعلمين؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "5",
+    "correct_answer": "36",
+    "is_correct": false
+  },
+  {
+    "index": 69,
+    "question": "تبدأ بيلي بمبلغ معين من المال. ثم تحصل على مصروف أسبوعي قدره 5 دولارات لمدة 8 أسابيع. وفي نهاية الأسابيع الثمانية، إذا كان لديها ما مجموعه 100 دولار، فكم كان المبلغ الذي بدأت به بيلي؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تبدأ بيل_+ي ب+_مبلغ معين من المال. ثم تحصل على مصروف أسبوعي_+ي قدر_+ه 5 دولارات ل+_مدة 8 أسابيع. و+_في نهاية الأسابيع الثمانية، إذا كان لدى_+ها ما مجموع_+ه 100 دولار، ف+_كم كان المبلغ الذي بدأت ب_+ه بيلي؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "100",
+    "correct_answer": "60",
+    "is_correct": false
+  },
+  {
+    "index": 70,
+    "question": "تعلم جودي 5 فصول رقص كل يوم خلال أيام الأسبوع و 8 فصول يوم السبت. إذا كان كل فصل يحتوي على 15 طالبًا وتحصل على 15.00 دولارًا عن كل طالب، فكم من المال تحصل عليه في أسبوع واحد؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تعلم جودي 5 فصول رقص كل يوم خلال أيام الأسبوع و 8 فصول يوم السبت. إذا كان كل فصل يحتوي على 15 طالبا و+_تحصل على 15.00 دولارا عن كل طالب، ف+_كم من المال تحصل على_+ه في أسبوع واحد؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "00",
+    "correct_answer": "7425",
+    "is_correct": false
+  },
+  {
+    "index": 71,
+    "question": "يمتلك كيليان وصفتين لإعداد طبقين، إحداهما تحتوي على 20 تعليمًا والأخرى تحتوي على ضعف عدد تعليمات الأولى. كم عدد التعليمات التي يجب على كيليان قراءتها لتحضير الطبقين؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يمتلك كيليان و+_صفتين ل+_إعداد طبقين، أحدا_+هما تحتوي على 20 تعليما و+_الأخرى تحتوي على ضعف عدد تعليمات الأولى. كم عدد التعليمات التي يجب على كيليان قراءة_+ها ل+_تحضير الطبقين؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting... Answer: المعطيات: 1. عدد التعليمات في الطبق الأول = 20 2. عدد التعليمات في الطبق الثاني = 2 × 20 = 40 الخطوات: 1. العدد الكلي ل+_التعليمات = 20 + 40 = 60 إذن، يجب على كيليان قراءة 60 تعليما ل+_تحضير الطبقين. ",
+    "predicted_answer": "60",
+    "correct_answer": "60",
+    "is_correct": true
+  },
+  {
+    "index": 72,
+    "question": "يجمع تومي التبرعات لجمعيته الخيرية من خلال بيع براونيز مقابل 3 دولارات للقطعة وكعك الجبن مقابل 4 دولارات للقطعة. إذا باع تومي 43 براونيز و23 قطعة كعك جبن، كم من المال سيجمع تومي؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يجمع تومي التبرعات ل+_جمعية_+ه الخيرية من خلال بيع براونيز مقابل 3 دولارات ل+_القطعة و+_كعك الجبن مقابل 4 دولارات للقطعة. إذا باع تومي 43 براونيز و23 قطعة كعك جبن، كم من المال س+_يجمع تومي؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى إجمالي براونيز 43 × 3 = 129 دولار. تساوى إجمالي كعك الجبن 23 × 4 = 92 دولار. لذا، س+_يجمع تومي 129 + 92 = 221 دولار. #### 221 Answer: ",
+    "predicted_answer": "221",
+    "correct_answer": "221",
+    "is_correct": true
+  },
+  {
+    "index": 73,
+    "question": "اشترت شيلا خمسة هواتف محمولة مقابل 150 دولارًا لكل منها على أقساط لمدة 3 أشهر. سيتم فرض فائدة بنسبة 2٪ على كل وحدة. كم ستدفع شيلا كل شهر لمدة 3 أشهر؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: اشترت شيلا خمسة هواتف محمول_+ه مقابل 150 دولارا ل+_كل من_+ها على أقساط ل+_مدة 3 أشهر. س+_يتم فرض فائدة ب+_نسبة 2٪ على كل وحدة. كم س+_تدفع شيلا كل شهر ل+_مدة 3 أشهر؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "3",
+    "correct_answer": "255",
+    "is_correct": false
+  },
+  {
+    "index": 74,
+    "question": "يمتلك آرتي كشكًا لبيع الزهور في سوق المزارعين. فهو يبيع ثلاثة أنواع من الزهور: القطيفة، والبيتونيا، والبيغونيا. وعادة ما يبيع أزهار القطيفة مقابل 2.74 دولارًا للوعاء، والبيتونيا مقابل 1.87 دولارًا للوعاء، وبيغونيا مقابل 2.12 دولارًا للوعاء. ليس لدى آرتي أي تغيير اليوم، لذا فقد قرر تقريب جميع أسعاره إلى أقرب دولار. إذا باع آرتي 12 وعاء من أزهار القطيفة، و9 أوعية من البيتونيا، و17 وعاء من البيغونيا، فكم سيجني؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يمتلك أرتي_+ي كشكا ل+_بيع الزهور في سوق المزارعين. ف+_هو يبيع ثلاثة أنواع من الزهور: القطيفة، والبيتونيا، والبيغونيا. و+_عادة ما يبيع أزهار القطيفة مقابل 2.74 دولارا للوعاء، والبيتونيا مقابل 1.87 دولارا للوعاء، وبيغونيا مقابل 2.12 دولارا للوعاء. ليس لدى أرتي_+ي أي تغيير اليوم، لذا ف+_قد قرر تقريب جميع أسعار_+ه إلى أقرب دولار. إذا باع أرتي_+ي 12 وعاء من أزهار القطيفة، و9 أوعية من البيتونيا، و17 وعاء من البيغونيا، ف+_كم سيجني؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى تكلفة القطيفة 2.74 دولارا ل+_الوعاء، و+_تقريبها إلى أقرب دولار تعطي 3 دولارات. تساوى تكلفة البيتونيا 1.87 دولارا ل+_الوعاء، و+_تقريب_+ها إلى أقرب دولار تعطي 2 دولارات. تساوى تكلفة البيغونيا 2.12 دولارا ل+_الوعاء، و+_تقريب_+ها إلى أقرب دولار تعطي 2 دولارات. بعد التقريب، حساب إجمالي الإيرادات: - 12 وعاء من أزهار القطيفة: 12 × 3 = 36 دولارا. - 9 أوعية من البيتونيا: 9 × 2 = 18 دولارا. - 17 وعاء من البيغونيا: 17 × 2 = 34 دولارا. الإجمالي الكلي هو 36 + 18 + 34 = 86 دولارا. إذن، س+_يجني أرتي_+ي 86 دولارا. ",
+    "predicted_answer": "86",
+    "correct_answer": "88",
+    "is_correct": false
+  },
+  {
+    "index": 75,
+    "question": "يقضي لوك وقته على الشاطئ في بناء القلاع الرملية. في النهاية، يلاحظ أن كل مستوى من قلعة رملية سيكون نصف المساحة المربعة للمستوى أسفله. إذا بنى قلعة رملية ذات أربعة مستويات، حيث تبلغ مساحة المستوى العلوي 16 قدمًا مربعًا، فما هي متوسط المساحة المربعة لكل مستوى؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يقضي لوك وقت_+ه على الشاطئ في بناء القلاع الرملية. في النهاية، يلاحظ أن كل مستوى من قلعة رملية س+_يكون نصف المساحة المربعة ل+_المستوى أسفله. إذا بنى قلعة رملية ذات أربعة مستويات، حيث تبلغ مساحة المستوى العلوي 16 قدما مربعا، ف+_ما هي متوسط المساحة المربعة ل+_كل مستوى؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "16",
+    "correct_answer": "60",
+    "is_correct": false
+  },
+  {
+    "index": 76,
+    "question": "لقد اشترت سيسيليا جروًا جديدًا. وفقًا لطبيبها البيطري، يجب عليها إطعام الجرو كوبًا واحدًا من طعام الكلاب كل يوم لمدة الـ 180 يومًا الأولى. ثم يتعين عليها إطعام الجرو كوبين من طعام الكلاب كل يوم لبقية حياته. إذا كانت حقيبة طعام الكلاب تحتوي على 110 أكواب، فكم عدد حقائب طعام الكلاب التي ستستخدمها سيسيليا في العام الأول؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: ل+_قد اشترت سيسيليا جروا جديدا. وفقا ل+_طبيب_+ها البيطري، يجب على_+ها إطعام الجرو كوبا واحدا من طعام الكلاب كل يوم ل+_مدة ال 180 يوما الأولى. ثم يتعين على_+ها إطعام الجرو كوبين من طعام الكلاب كل يوم ل+_بقية حياته. إذا كانت حقيبة طعام الكلاب تحتوي على 110 أكواب، ف+_كم عدد حقائب طعام الكلاب التي س+_تستخدم_+ها سيسيليا في العام الأول؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "110",
+    "correct_answer": "5",
+    "is_correct": false
+  },
+  {
+    "index": 77,
+    "question": "إذا قام ريموند بنصف كمية الغسيل التي تقوم بها سارة، وتقوم سارة بأربعة أضعاف كمية الغسيل التي يقوم بها ديفيد، احسب الفرق في كمية الغسيل التي يقوم بها ريموند وديفيد إذا قامت سارة بغسيل 400 رطل من الغسيل.",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: إذا قام ريموند ب+_نصف كمية الغسيل التي تقوم ب_+ها سارة، و+_تقوم سار_+ه ب+_أربعة أضعاف كمية الغسيل التي يقوم ب_+ها ديفيد، أحسب الفرق في كمية الغسيل التي يقوم ب_+ها ريموند و+_ديفيد إذا قامت سار_+ه ب+_غسيل 400 رطل من الغسيل. Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى كمية الغسيل التي تقوم ب_+ها سار_+ه 4 × 400 = 1600 رطل. تساوى كمية الغسيل التي يقوم ب_+ها ريموند 1/2 × 1600 = 800 رطل. تساوى كمية الغسيل التي يقوم ب_+ها ديفيد 1/4 × 1600 = 400 رطل. يرجى ذكر المشكلة التي تريد أن أحلها. ",
+    "predicted_answer": "400",
+    "correct_answer": "100",
+    "is_correct": false
+  },
+  {
+    "index": 78,
+    "question": "يمكن لفينسنت أن يشتري الزهور في عبوات مكونة من 3 مقابل 2.50 دولار أو في عبوات مكونة من 2 مقابل 1 دولار. كم من المال يوفر عند شراء 18 زهرة بالسعر الأفضل؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يمكن لفينسنت أن يشتري الزهور في عبوات مكونة من 3 مقابل 2.50 دولار أو في عبوات مكونة من 2 مقابل 1 دولار. كم من المال يوفر عند شراء 18 زهرة ب+_السعر الأفضل؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "18",
+    "correct_answer": "6",
+    "is_correct": false
+  },
+  {
+    "index": 79,
+    "question": "تبنى جون كلباً. واصطحب الكلب إلى الحلاق، مما كلفه 100 دولار. قدم له الحلاق خصمًا بنسبة 30٪ كعميل جديد. كم تبلغ تكلفة الحلاقة؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تبنى جون كلبا. و+_أصطحب الكلب إلى الحلاق، من_+ما كلف_+ه 100 دولار. قدم ل_+ه الحلاق خصما ب+_نسبة 30٪ ك+_عميل جديد. كم تبلغ تكلفة الحلاقة؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 100 - (30% من 100) = 100 - 30 = 70 دولار. #### 70 Answer: ",
+    "predicted_answer": "70",
+    "correct_answer": "70",
+    "is_correct": true
+  },
+  {
+    "index": 80,
+    "question": "حصلت الفتاتان على 1/6 من 24 لتر من الماء لكل منهما. ثم حصل صبي على 6 لترات من الماء. كم عدد اللترات المتبقية من الماء؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: حصلت الفتاتان على 1/6 من 24 ل+_تر من الماء ل+_كل منهما. ثم حصل صبي على 6 لترات من الماء. كم عدد اللترات المتبقية من الماء؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 24 - (2 × (1/6 × 24)) - 6 = 24 - (2 × 4) - 6 = 24 - 8 - 6 = 10 لترات. ",
+    "predicted_answer": "10",
+    "correct_answer": "10",
+    "is_correct": true
+  },
+  {
+    "index": 81,
+    "question": "كان لدى شارلي 10 ملصقات. واشترى 21 ملصقًا من متجر في المركز التجاري وحصل على 23 ملصقًا في عيد ميلاده. ثم أعطى شارلي 9 من الملصقات لأخته واستخدم 28 ملصقًا لتزيين بطاقة تهنئة. فكم عدد الملصقات المتبقية لدى شارلي؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: كان لدى شارلي 10 ملصقات. و+_اشترى 21 ملصقا من متجر في المركز التجاري و+_حصل على 23 ملصقا في عيد ميلاده. ثم أعطى شارلي 9 من الملصقات ل+_أخت_+ه و+_استخدم 28 ملصقا ل+_تزيين بطاقة تهنئة. ف+_كم عدد الملصقات المتبقية لدى شارلي؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "28",
+    "correct_answer": "17",
+    "is_correct": false
+  },
+  {
+    "index": 82,
+    "question": "يزن جريس 125 رطلاً. يزن أليكس رطلان أقل من 4 أضعاف وزن جريس. ما هو الوزن الكلي لهما بالرطل؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يزن جريس 125 رطلا. يزن أليكس رطلان أقل من 4 أضعاف وزن جريس. ما هو الوزن الكلي ل_+هما بالرطل؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 245 Answer: وزن أليكس هو 4 × (125 ÷ 4) - 2 = 100 - 2 = 98 رطلا. الوزن الكلي ل+_هما هو 125 + 98 = 223 رطلا. #### 223 ",
+    "predicted_answer": "223",
+    "correct_answer": "623",
+    "is_correct": false
+  },
+  {
+    "index": 83,
+    "question": "يزرع دان 3 شجرات ورد. تحتوي كل شجيرة على 25 وردة. تحتوي كل وردة على 8 أشواك. ما هو إجمالي عدد الأشواك؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يزرع دان 3 شجرات ورد. تحتوي كل شجيرة على 25 وردة. تحتوي كل و+_رد_+ه على 8 أشواك. ما هو إجمالي عدد الأشواك؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 3 × 25 × 8 = 600 أشتقاق. ",
+    "predicted_answer": "600",
+    "correct_answer": "600",
+    "is_correct": true
+  },
+  {
+    "index": 84,
+    "question": "لعب فريق كرة قدم 22 مباراة. فازوا بثمانية مباريات أكثر مما خسروه. فكم مباراة فازوا بها؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: لعب فريق كرة قدم 22 مباراة. فازوا ب+_ثمانية مباريات أكثر من_+ما خسروه. ف+_كم مباراة فازوا بها؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 8 Answer: المعطيات: 1. عدد المباريات الكلي = 22 مباراة 2. عدد المباريات التي فازوا في_+ها = 8 مباريات الخطوات: 1. حساب عدد المباريات التي خسروا: عدد المباريات التي خسروا = 22 - 8 = 14 مباراة. 2. بما أن الفرق لا تلعب مباراة واحدة أكثر من مرة، ف+_إن عدد المباريات التي فازوا ب_+ها هو 8 مباريات. إذن، فاز الفريق ب 8 مباريات. ",
+    "predicted_answer": "8",
+    "correct_answer": "15",
+    "is_correct": false
+  },
+  {
+    "index": 85,
+    "question": "جيني يقوم بترقيع لحاف من قمصان تذكارية قديمة. لديه قميص من كل عطلة قام بها. كل قميص يشكل مربعا خاصا به من قطع اللحاف. يتكون كل صف من مربعات من سنوات مختلفة من العطلات. وهو يقوم بأربع عطلات في السنة وقد كان يقضي العطلات منذ أن كان عمره 23 عاما. هو الآن يبلغ من العمر 34 عاما. فكم عدد قطع اللحاف التي يمتلكها في المجمل؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: جين_+ي يقوم ب+_ترقيع ل+_حاف من قمصان تذكارية قديمة. لدى_+ه قميص من كل عطلة قام بها. كل قميص يشكل مربعا خاصا ب_+ه من قطع اللحاف. يتكون كل صف من مربعات من سنوات مختلفة من العطلات. و+_هو يقوم ب+_أربع عطلات في السنة و+_قد كان يقضي العطلات منذ أن كان عمر_+ه 23 عاما. هو الآن يبلغ من العمر 34 عاما. ف+_كم عدد قطع اللحاف التي يمتلك_+ها في المجمل؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "34",
+    "correct_answer": "44",
+    "is_correct": false
+  },
+  {
+    "index": 86,
+    "question": "لغريغ منبه يضبطه ليقرع ثلاث مرات يومياً كتذكير. عندما يقرع المنبه، يستمر في الرنين حتى يوقفه غريغ. في المرة الأولى التي قرع فيها اليوم، رن أربع مرات. وفي المرة الثانية قرع لثلاثة أضعاف طول المدة التي رن فيها في المرة الأولى. وفي المرة الثالثة، رن لمدة النصف من المدة التي رن فيها في المرة الثانية. فكم عدد المرات التي قرع فيها المنبه في المجموع؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: لغريغ منبه يضبط_+ه ل+_يقرع ثلاث مرات يوميا كتذكير. عند_+ما يقرع المنبه، يستمر في الرنين حتى يوقف_+ه غريغ. في المرة الأولى التي قرع في_+ها اليوم، رن أربع مرات. و+_في المرة الثانية قرع ل+_ثلاثة أضعاف طول المدة التي رن في_+ها في المرة الأولى. و+_في المرة الثالثة، رن ل+_مدة النصف من المدة التي رن في_+ها في المرة الثانية. ف+_كم عدد المرات التي قرع في_+ها المنبه في المجموع؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 3 Answer: في المرة الأولى، قرع المنبه أربع مرات. في المرة الثانية، قرع ل+_ثلاثة أضعاف طول المدة الأولى، من_+ما يعني 4 × 3 = 12 قرع. في المرة الثالثة، قرع ل+_مدة النصف من المدة الثانية، من_+ما يعني 12 ÷ 2 = 6 قرع. لذا، العدد الكلي ل+_القراص هو 4 + 12 + 6 = 22 قرع. ",
+    "predicted_answer": "22",
+    "correct_answer": "22",
+    "is_correct": true
+  },
+  {
+    "index": 87,
+    "question": "تدفع شركة لكل موظف من موظفيها 600 دولار في الشهر. وتتبع الشركة سياسة زيادة رواتب موظفيها بنسبة 10% من الراتب الأولي كل عام لمن أمضوا خمس سنوات في الشركة. إذا كانت سيلفي قد أكملت للتو خمس سنوات في الشركة في ديسمبر الماضي، فما هو راتبها السنوي بعد ثلاث سنوات أخرى من الخدمة؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تدفع شركة ل+_كل موظف من موظفي_+ها 600 دولار في الشهر. و+_تتبع الشركة سياسة زيادة رواتب موظفي_+ها ب+_نسبة 10% من الراتب الأولى كل عام ل+_من أمضوا خمس سنوات في الشركة. إذا كانت س+_يلفي قد أكملت ل+_التو خمس سنوات في الشركة في ديسمبر الماضي، ف+_ما هو راتب_+ها السنوي بعد ثلاث سنوات أخرى من الخدمة؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 600 × (1 + 0.1)^3 = 783.60 دولار. #### 783.60",
+    "predicted_answer": "60",
+    "correct_answer": "9360",
+    "is_correct": false
+  },
+  {
+    "index": 88,
+    "question": "باعت أول أسطوانة لماريلين عشرة أضعاف ما باعه هارالد. إذا باعا مجتمعَين 88,000 نسخة، فكم نسخة باع هارالد؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: باعت أول أسطوانة لماريلين عشرة أضعاف ما باع_+ه هارالد. إذا باعا مجتمعين 88,000 نسخة، ف+_كم نسخة باع هارالد؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 10,000 Answer: دع_+نا نبدأ بالتساؤل: - إذا باع ماريلين 10 أضعاف هارالد، ف+_إن عدد النسخ التي باع_+ها هارالد هو (1/10) من إجمالي النسخ المباعة. - إذا باعوا معا 88,000 نسخة، ف+_إن هارالد باع (1/10) من 88,000 = 8,800 نسخة. إذن، باع هارالد 8,800 نسخة. ",
+    "predicted_answer": "800",
+    "correct_answer": "8000",
+    "is_correct": false
+  },
+  {
+    "index": 89,
+    "question": "تخطط كريستينا لحفل عيد ميلاد وتحتاج إلى 0.75 كيس هدايا لكل ضيف مدعو، لأن ربع الحضور لا يظهرون. لقد دعت 16 صديقًا. تبلغ تكلفة كل كيس هدايا دولارين. كم ستنفق؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تخطط كريستينا ل+_حفل عيد ميلاد و+_تحتاج إلى 0.75 كيس هدايا ل+_كل ضيف مدعو، ل+_أن ربع الحضور لا يظهرون. ل+_قد دعت 16 صديقا. تبلغ تكلفة كل كيس هدايا دولارين. كم ستنفق؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 32 كيس هدايا يحتاج إلى_+ه 16 ضيفا. لذا، س+_يكون هناك 0.75 كيس ل+_كل ضيف، من_+ما يعني 0.75 × 16 = 12 كيس. تكلفة كل كيس هدايا هي دولار، لذا س+_تنفق 12 × 2 = 24 دولار. #### 24 دولار ",
+    "predicted_answer": "24",
+    "correct_answer": "24",
+    "is_correct": true
+  },
+  {
+    "index": 90,
+    "question": "كان تيد التي ريكس يخطط لإحضار سلطة البطاطس إلى نزهة الديناصورات. يعرف أن الديناصور البالغ سيأكل 10 أرطال من سلطة البطاطس، وأن الطفل سياكل نصف الكمية التي يأكلها البالغ. إذا كان هناك 20 بالغًا و5 أطفال في النزهة، فكم رطلاً من سلطة البطاطس يحتاج تيد إلى إحضارها إلى النزهة إذا كان يأمل في الحصول على ما يكفي لإطعام الجميع؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: كان تيد التي ريكس يخطط ل+_إحضار سلطة البطاطس إلى نزه_+ه الديناصورات. يعرف أن الديناصور البالغ س+_يأكل 10 أرطال من سلطة البطاطس، و+_أن الطفل س+_يأكل نصف الكمية التي يأكل_+ها البالغ. إذا كان هناك 20 بالغا و5 أطفال في النزهة، ف+_كم رطلا من سلطة البطاطس يحتاج تيد إلى إحضار_+ها إلى النزهة إذا كان يأمل في الحصول على ما يكفي ل+_إطعام الجميع؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, startingin...",
+    "predicted_answer": "5",
+    "correct_answer": "225",
+    "is_correct": false
+  },
+  {
+    "index": 91,
+    "question": "تمتلك جان ثلاثة أضعاف عدد الحيوانات الأليفة التي تمتلكها مارشيا. تمتلك مارشيا حيوانين أليفين أكثر من سيندي. إذا كان لدى سيندي أربعة حيوانات أليفة، فما هو العدد الإجمالي للحيوانات الأليفة التي تمتلكها الثلاثة؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تمتلك جان ثلاثة أضعاف عدد الحيوانات الأليفة التي تمتلك_+ها مارشيا. تمتلك مارشيا حيوانين أليفين أكثر من سيندي. إذا كان لدى س+_يندى أربعة حيوانات أليفة، ف+_ما هو العدد الإجمالي ل+_الحيوانات الأليفة التي تمتلك_+ها الثلاثة؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "10",
+    "correct_answer": "28",
+    "is_correct": false
+  },
+  {
+    "index": 92,
+    "question": "تملك إميلي 4 أطفال أسماؤهم أي، جاكسون، كوري، وجيمس. أي أكبر من جاكسون بخمس سنوات وأصغر من كوري بسنتين. إذا كان عمر جيمس هو 10 سنوات وهو أصغر من كوري بسنة واحدة، كم عمر جاكسون؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تملك أميلي_+ي 4 أطفال أسماء_+هم أي، جاكسون، كوري، وجيمس. أي أكبر من جاكسون ب+_خمس سنوات و+_أصغر من كوري بسنتين. إذا كان عمر جيمس هو 10 سنوات و+_هو أصغر من كوري ب+_سنة واحدة، كم عمر جاكسون؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "10",
+    "correct_answer": "4",
+    "is_correct": false
+  },
+  {
+    "index": 93,
+    "question": "كان لي قادرًا على اجتياز سباق حواجز 400 متر بسرعة أسرع بثانيتين من جيرالد. لكن جيرالد غير نظامه الغذائي، مما حسّن سرعته بنسبة 10%. إذا اجتاز لي سباق حواجز 400 متر في 38 ثانية، فكم ستكون سرعة جيرالد، بعد تحسين نظامه الغذائي، في سباق حواجز 400 متر، بالثواني؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: كان ل_+ي قادرا على اجتياز سباق حواجز 400 متر ب+_سرعة أسرع ب+_ثانيتين من جيرالد. لكن جيرالد غير نظام_+ه الغذائي، من_+ما حسن سرعة_+ه ب+_نسبة 10%. إذا اجتاز ل_+ي سباق حواجز 400 متر في 38 ثانية، ف+_كم س+_تكون سرعة جيرالد، بعد تحسين نظام_+ه الغذائي، في سباق حواجز 400 متر، بالثواني؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, startingi",
+    "predicted_answer": "400",
+    "correct_answer": "36",
+    "is_correct": false
+  },
+  {
+    "index": 94,
+    "question": "في أحد الأحياء السكنية، عدد أرانب الحيوانات الأليفة هو اثنا عشر أقل من العدد الإجمالي للكلاب والقطط الأليفة. إذا كان هناك قطتان لكل كلب، وعدد الكلاب 60، فكم عدد الحيوانات الأليفة الإجمالي في الحي؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: في أحد الأحياء السكنية، عدد أرانب الحيوانات الأليفة هو ٱثنا عشر أقل من العدد الإجمالي ل+_الكلاب و+_القطط الأليفة. إذا كان هناك قطتان ل+_كل كلب، و+_عدد الكلاب 60، ف+_كم عدد الحيوانات الأليفة الإجمالي في الحي؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "60",
+    "correct_answer": "348",
+    "is_correct": false
+  },
+  {
+    "index": 95,
+    "question": "من أصل 200 طالب في الصف الخامس، 2/5 منهم من الأولاد و 2/3 من البنات في الكشافة. كم عدد الفتيات غير الكشافة؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: من أصل 200 طالب في الصف الخامس، 2/5 من_+هم من الأولاد و 2/3 من البنات في الكشافة. كم عدد الفتيات غير الكشافة؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 80 Answer: عدد الطلاب في الصف الخامس = 200 طالب. عدد الأولاد = (2/5) × 200 = 80 ولد. عدد البنات = (2/3) × 200 = 133.33 (نقرب إلى 133 بنت). عدد الفتيات الكلي = 133. عدد الفتيات غير الكشافة = 200 - 133 = 67 فتاة. ",
+    "predicted_answer": "67",
+    "correct_answer": "40",
+    "is_correct": false
+  },
+  {
+    "index": 96,
+    "question": "نام هاري 9 ساعات الليلة الماضية. نام صديقه جيمس فقط 2/3 مما نام هاري. فكم عدد الساعات الإضافية التي نام فيها هاري أكثر من جيمس؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: نام هاري 9 ساعات الليلة الماضية. نام صديق_+ه جيمس فقط 2/3 من_+ما نام هاري. ف+_كم عدد الساعات الإضافية التي نام في_+ها هاري أكثر من جيمس؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 9 - (2/3 × 9) = 9 - 6 = 3 ساعات. ",
+    "predicted_answer": "3",
+    "correct_answer": "3",
+    "is_correct": true
+  },
+  {
+    "index": 97,
+    "question": "عندما تطبخ فريدا الطماطم المعلبة إلى صلصة، تفقد نصف حجمها. كل علبة طماطم تستخدمها سعة 16 أونصة تحتوي على ثلاث طماطم. آخر دفعة من صلصة الطماطم التي أعدتها فريدا أنتجت 32 أونصة من الصلصة. كم عدد الطماطم التي استخدمتها فريدا؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: عند_+ما تطبخ فريدا الطماطم المعلبة إلى صلصة، تفقد نصف حجمها. كل علبة طماطم تستخدم_+ها سعة 16 أونصة تحتوي على ثلاث طماطم. آخر دفعة من صلصة الطماطم التي أعدت_+ها فريدا أنتجت 32 أونصة من الصلصة. كم عدد الطماطم التي استخدمت_+ها فريدا؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى حجم كل علبة طماطم 16 ÷ 3 = 5.33 أونصة. إذا كانت الصلصة الناتجة 32 أونصة، ف+_هذا يعني أن فريدا استخدم 32 ÷ 5.33 ≈ 6 علب. و+_بما أن كل علبة تحتوي على 3 طماطم، ف+_إن العدد الكلي ل+_الطماطم هو 6 × 3 = 18 طماطم. #### 18 Answer: ",
+    "predicted_answer": "18",
+    "correct_answer": "12",
+    "is_correct": false
+  },
+  {
+    "index": 98,
+    "question": "اصطفت السيارات على الطريق السريع. بعض السيارات تنطلق خلال الخمسة عشر دقيقة الأولى من الازدحام المروري، ثم تمر 20 سيارة أخرى خلال الخمسة عشر دقيقة المتبقية من الازدحام. تغادر 5 سيارات من الصف مخرجًا بحيث لا تضطر إلى المرور عبر الازدحام. إذا كان هناك في الأصل 30 سيارة على الطريق السريع، فكم عدد السيارات التي مرت عبر الازدحام المروري في الخمسة عشر دقيقة الأولى؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: اصطفت السيارات على الطريق السريع. ب+_عض السيارات تنطلق خلال الخمسة عشر دقيقة الأولى من الازدحام المروري، ثم تمر 20 سيارة أخرى خلال الخمسة عشر دقيقة المتبقية من الازدحام. تغادر 5 سيارات من الصف مخرجا ب+_حيث لا تضطر إلى المرور عبر الازدحام. إذا كان هناك في الأصل 30 سيارة على الطريق السريع، ف+_كم عدد السيارات التي مرت عبر الازدحام المروري في الخمسة عشر دقيقة الأولى؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "30",
+    "correct_answer": "5",
+    "is_correct": false
+  },
+  {
+    "index": 99,
+    "question": "ماري هي مُحبّة للحدائق. بالأمس، تلقّت 18 نبتة مزروعة جديدة من مشتل النباتات المفضل لديها. لديها بالفعل نبتتان مزروعتان على كل من حواف النوافذ الأربعين لمنزلها الريفي الكبير. ولشعورها بالسخاء، فقد قررت أن تمنح نبتة مزروعة واحدة من كل حافة لأصدقائها وعائلتها غدًا. كم عدد النباتات المزروعة التي ستبقى مع ماري؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: ماري هي محبة للحدائق. بالأمس، تلقت 18 نبت_+ه مزروعة جديدة من مشتل النباتات المفضل لديها. لدى_+ها ب+_الفعل نبتتان مزروعتان على كل من حواف النوافذ الأربعين ل+_منزل_+ها الريفي الكبير. و+_ل+_شعور_+ها بالسخاء، ف+_قد قررت أن تمنح نبت_+ه مزروعة واحدة من كل حافة ل+_أصدقاء_+ها و+_عائلة_+ها غدا. كم عدد النباتات المزروعة التي س+_تبقى مع ماري؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "18",
+    "correct_answer": "58",
+    "is_correct": false
+  },
+  {
+    "index": 100,
+    "question": "كان لجيروم 4 أصدقاء جاءوا لزيارته في يوم معين. ضغط الصديق الأول على الجرس 20 مرة قبل أن يفتح جيروم، وضغط الصديق الثاني على الجرس رُبع مرات أكثر من صديق جيروم الأول. ضغط الصديق الثالث على الجرس 10 مرات أكثر من الصديق الرابع. إذا ضغط الصديق الرابع على الجرس 60 مرة، فكم عدد مرات الرنين التي أصدرها الجرس؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: كان ل+_جيروم 4 أصدقاء جاءوا ل+_زيارة_+ه في يوم معين. ضغط الصديق الأول على الجرس 20 مرة قبل أن يفتح جيروم، و+_ضغط الصديق الثاني على الجرس ربع مرات أكثر من صديق جيروم الأول. ضغط الصديق الثالث على الجرس 10 مرات أكثر من الصديق الرابع. إذا ضغط الصديق الرابع على الجرس 60 مرة، ف+_كم عدد مرات الرنين التي أصدر_+ها الجرس؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "60",
+    "correct_answer": "175",
+    "is_correct": false
+  },
+  {
+    "index": 101,
+    "question": "يجب على سولو قراءة 4 صفحات من كتاب العلوم، و20 صفحة من كتاب الدراسات الاجتماعية، و7 صفحات من كتاب التاريخ، و8 صفحات من كتاب الجغرافيا. وقد قرأ سولو 15 صفحة يوم الاثنين. إذا كان أمامه 4 أيام أخرى لإكمال كل القراءة المطلوبة، فكم عدد الصفحات التي يجب عليه قراءتها في المتوسط في اليوم الواحد؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يجب على سولو قراءة 4 صفحات من كتاب العلوم، و20 صفحة من كتاب الدراسات الاجتماعية، و7 صفحات من كتاب التاريخ، و8 صفحات من كتاب الجغرافيا. و+_قد قرأ سولو 15 صفحة يوم الاثنين. إذا كان أمام_+ه 4 أيام أخرى ل+_إكمال كل القراءة المطلوبة، ف+_كم عدد الصفحات التي يجب على_+ه قراءة_+ها في المتوسط في اليوم الواحد؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "4",
+    "correct_answer": "6",
+    "is_correct": false
+  },
+  {
+    "index": 102,
+    "question": "يحب جون أن يشرب كوباً من الماء مع وجبات الإفطار والغداء والعشاء. وأخيراً، يشرب أيضاً كوباً قبل أن يذهب إلى النوم. يقوم جون بذلك كل يوم في أيام الأسبوع، ولكن في عطلة نهاية الأسبوع يحب الاسترخاء ويشرب مشروباً غازياً مع العشاء بدلاً من ذلك. كم كوباً من الماء يشرب جون في الأسبوع؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يحب جون أن يشرب كوبا من الماء مع وجبات الإفطار و+_الغداء والعشاء. وأخيرا، يشرب أيضا كوبا قبل أن يذهب إلى النوم. يقوم جون ب+_ذلك كل يوم في أيام الأسبوع، و+_لكن في عطلة نهاية الأسبوع يحب الاسترخاء و+_يشرب مشروبا غازيا مع العشاء بدلا من ذلك. كم كوبا من الماء يشرب جون في الأسبوع؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "10",
+    "correct_answer": "26",
+    "is_correct": false
+  },
+  {
+    "index": 103,
+    "question": "يتسلل بنك من الضباب من المحيط ليكسو مدينة. يستغرق الأمر 10 دقائق لتغطية كل 3 أميال من المدينة. إذا كانت المدينة مساحتها 42 ميلاً من الواجهة البحرية إلى الحافة الداخلية المقابلة، فكم يستغرق الأمر من دقائق لتغطية الضباب للمدينة بأكملها؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يتسلل بنك من الضباب من المحيط ل+_يكسو مدينة. يستغرق الأمر 10 دقائق ل+_تغطية كل 3 أميال من المدينة. إذا كانت المدينة مساحة_+ها 42 ميلا من الواجهة البحرية إلى الحافة الداخلية المقابلة، ف+_كم يستغرق الأمر من دقائق ل+_تغطية الضباب ل+_المدينة بأكملها؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى سرعة الضباب 3 أميال في 10 دقائق، أي 0.3 أميال في الدقيقة. ل+_حساب الوقت المستغرق ل+_تغطية 42 ميلا، نحتاج إلى تحديد عدد الأميال التي يمكن أن يغطي_+ها الضباب في دقيقة واحدة. 42 ÷ 0.3 = 140 دقيقة. لذلك، يستغرق الضباب 110 دقيقة ل+_تغطية المدينة بأكملها. #### 110 ",
+    "predicted_answer": "110",
+    "correct_answer": "140",
+    "is_correct": false
+  },
+  {
+    "index": 104,
+    "question": "تحل بوبي أحجية مكونة من 1000 قطعة. فتقوم بوضع ربع القطع على اللوح، ثم تضع والدتها ثلث القطع المتبقية. كم عدد قطع الأحجية المتبقية لوضعها؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تحل ب+_وبي أحجية مكونة من 1000 قطعة. ف+_تقوم ب+_وضع ربع القطع على اللوح، ثم تضع والدة_+ها ثلث القطع المتبقية. كم عدد قطع الأحجية المتبقية لوضعها؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 375 ",
+    "predicted_answer": "375",
+    "correct_answer": "٥٠٠",
+    "is_correct": false
+  },
+  {
+    "index": 105,
+    "question": "يأكل كودي ثلاثة أضعاف عدد ملفات تعريف الارتباط التي يأكلها أمير. إذا أكل أمير 5 ملفات تعريف ارتباط، فكم عدد ملفات تعريف الارتباط التي يتناولونها معًا؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يأكل ك+_ودي ثلاثة أضعاف عدد ملفات تعريف الارتباط التي يأكل_+ها أمير. إذا أكل أمير 5 ملفات تعريف ارتباط، ف+_كم عدد ملفات تعريف الارتباط التي يتناولون_+ها معا؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 3(5) = 15 ملفات تعريف ارتباط. #### 15 Answer:",
+    "predicted_answer": "15",
+    "correct_answer": "20",
+    "is_correct": false
+  },
+  {
+    "index": 106,
+    "question": "يملك جون 3 صناديق. كل صندوق قياسه 5 بوصات بعرض 6 بوصات وبارتفاع 4 بوصات. الجدران سماكتها بوصة واحدة. ما هو الحجم الداخلي الكلي لجميع الصناديق الثلاثة؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يملك جون 3 صناديق. كل صندوق قياس_+ه 5 بوصات ب+_عرض 6 بوصات و+_ب+_ارتفاع 4 بوصات. الجدران سماكة_+ها بوصة واحدة. ما هو الحجم الداخلي الكلي ل+_جميع الصناديق الثلاثة؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 3(5 × 6 × 4) = 180 بوصات مكعبة. #### 180 ",
+    "predicted_answer": "180",
+    "correct_answer": "72",
+    "is_correct": false
+  },
+  {
+    "index": 107,
+    "question": "فرانكي يشاهد التلفزيون بعد أن ينتهي من واجباته المنزلية كل ليلة. في يومي الاثنين والثلاثاء، شاهد حلقة مدتها ساعة من برنامجه المفضل كل ليلة. وفي يوم الأربعاء، شاهد عدة حلقات من برنامج مدته 30 دقيقة. وفي يوم الخميس، أنهى واجباته المنزلية مبكراً وشاهد حلقة مدتها ساعة وبرنامج مدته 30 دقيقة. في يوم الجمعة، سُمح له بالسهر حتى وقت متأخر خلال عطلة نهاية الأسبوع، فشاهد حلقتين مدة كل منهما ساعة. إذا كان قد شاهد في المجمل 7 ساعات من التلفزيون، فكم عدد الحلقات التي مدتها 30 دقيقة والتي شاهدها يوم الأربعاء؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: فرانكي يشاهد التلفزيون بعد أن ينتهي من واجبات_+ه المنزلية كل ليلة. في يومي الاثنين والثلاثاء، شاهد حلقة مدة_+ها ساعة من برنامج_+ه المفضل كل ليلة. و+_في يوم الأربعاء، شاهد عدة حلقات من برنامج مدة_+ه 30 دقيقة. و+_في يوم الخميس، أنهى واجبات_+ه المنزلية مبكرا و+_شاهد حلقة مدة_+ها ساعة و+_برنامج مدة_+ه 30 دقيقة. في يوم الجمعة، سمح ل_+ه ب+_السهر حتى وقت متأخر خلال عطلة نهاية الأسبوع، ف+_شاهد حلقتين مدة كل من_+هما ساعة. إذا كان قد شاهد في المجمل 7 ساعات من التلفزيون، ف+_كم عدد الحلقات التي مدة_+ها 30 دقيقة و+_التي شاهد_+ها يوم الأربعاء؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "30",
+    "correct_answer": "3",
+    "is_correct": false
+  },
+  {
+    "index": 108,
+    "question": "يصنع هنري حلوى الكوكيز لمسابقة خبز محلية. يريد أن يصنع ضعف ما صنعه في العام الماضي. عندما ينتهي من الخبز، يدرك أنه في الواقع خبز 15 كوكيز أكثر مما كان ينوي. يسقط 5 من الكوكيز أثناء إخراجهم لتبرد، والآن لديه ما مجموعه 110 كوكيز. كم عدد حلوى الكوكيز التي صنعها هنري في العام الماضي؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يصنع هنري حلوي_+ي الكوكيز ل+_مسابقة خبز محلية. يريد أن يصنع ضعف ما صنع_+ه في العام الماضي. عند_+ما ينتهي من الخبز، يدرك أن_+ه في الواقع خبز 15 كوكيز أكثر من_+ما كان ينوي. يسقط 5 من الكوكيز أثناء إخراج_+هم لتبرد، و+_الآن لدى_+ه ما مجموع_+ه 110 كوكيز. كم عدد حلوي_+ي الكوكيز التي صنع_+ها هنري في العام الماضي؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "110",
+    "correct_answer": "50",
+    "is_correct": false
+  },
+  {
+    "index": 109,
+    "question": "تبيع محطة محلية للوقود الغاز بسعر 3 دولارات للغالون. وتمنح إحدى شركات التطبيقات النقدية استردادًا نقديًا بقيمة 0.20 دولار للغالون الواحد إذا قمت بتعبئة الوقود في هذه المحطة. إذا اشترى شخص ما 10 غالونات من الغاز، فكم سيكون سعر الوقود الذي حصل عليه بعد مكافآت استرداد النقود؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تبيع محطة محلية ل+_الوقود الغاز ب+_سعر 3 دولارات للغالون. و+_تمنح إحدى شركات التطبيقات النقدية استردادا نقديا ب+_قيمة 0.20 دولار للغالون الواحد إذا قمت ب+_تعبئة الوقود في هذه المحطة. إذا اشترى شخص ما 10 غالونات من الغاز، ف+_كم س+_يكون سعر الوقود الذي حصل على_+ه بعد مكافات استرداد النقود؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 3 دولارات ل+_كل غالون، لذا س+_يدفع الشخص 3 × 10 = 30 دولارا ل+_شراء 10 غالونات. بعد استررادة النقود، يحصل الشخص على استررادة قدر_+ها 0.20 دولار ل+_كل غالون. لذا س+_يحصل على استررادة قدر_+ها 0.20 × 10 = 2 دولارات. لذلك، س+_يكون سعر الوقود الذي حصل على_+ه بعد مكافات الاستررادة هو 30 - 2 = 28 دولارا. ",
+    "predicted_answer": "28",
+    "correct_answer": "28",
+    "is_correct": true
+  },
+  {
+    "index": 110,
+    "question": "مارسيل وبياتريس يتنافسان لمعرفة من منهما يمكنه تناول أكبر عدد من الفواكه الملفوفة، لذا يقومان بلفها قدر المستطاع. للأسف، ارتكب أحدهم خطأً وكانت لفافات بياتريس بعرض لفتين وطول 24 لفة، بينما كانت لفافات مارسيل بعرض 3 لفتات وطول 14 لفة. إذا أكل كلاهما الكمية بأكملها، فكم كانت الكمية التي تناولاها في المتوسط؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: مارسيل وبياتريس يتنافسان ل+_معرفة من من_+هما يمكن_+ه تناول أكبر عدد من الفواكه الملفوفة، لذا يقومان بلف_+ها قدر المستطاع. للأسف، ارتكب أحد_+هم خطأ و+_كانت ل+_فأفأت بياتريس ب+_عرض لفتين و+_طول 24 لفة، بينما كانت ل+_فأفأت مارسيل ب+_عرض 3 لفتات و+_طول 14 لفة. إذا أكل كلى_+هما الكمية بأكملها، ف+_كم كانت الكمية التي تناولا_+ها في المتوسط؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting... Answer: المعطيات: 1. طول ل+_فة بياتريس = 24 لفة 2. طول ل+_فة مارسيل = 14 لفة الخطوات: 1. حساب المساحة الكلية للفوط: - المساحة ل+_لفة بياتريس = 24 × 24 = 576 لفة - المساحة ل+_لفة مارسيل = 11 × 14 = 154 لفة 2. حساب الكمية المتناولة: - الكمية الكلية = 576 + 154 = 730 لفة إذن، كانت الكمية التي تناول_+ها مارسيل وبياتريس في المتوسط هي 730 لفة. ",
+    "predicted_answer": "730",
+    "correct_answer": "45",
+    "is_correct": false
+  },
+  {
+    "index": 111,
+    "question": "كانت قارب جوليا يتسرب منه الماء أثناء تواجدها في البحيرة. كانت القارب تغرق بمعدل لترين من الماء لكل عشرة أقدام تجدف بها للعودة إلى الشاطئ. استغرقت 16 ثانية لتجذف مسافة 20 قدما. وكان الشاطئ على بعد 64 ثانية. كم من الماء قد تسرب إلى القارب عند وصول جوليا إلى الشاطئ؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: كانت قارب جوليا يتسرب من_+ه الماء أثناء تواجد_+ها في البحيرة. كانت القارب تغرق ب+_معدل ل+_ترين من الماء ل+_كل عشرة أقدام تجدف ب_+ها ل+_العودة إلى الشاطئ. استغرقت 16 ثانية ل+_تجذف مسافة 20 قدما. و+_كان الشاطئ على بعد 64 ثانية. كم من الماء قد تسرب إلى القارب عند وصول جوليا إلى الشاطئ؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "64",
+    "correct_answer": "16",
+    "is_correct": false
+  },
+  {
+    "index": 112,
+    "question": "في الفصل الدراسي سبورة مشتركة بين 4 معلمين، يتناوبون على استخدام الفصل. لدى كل معلم حصتين يوميًا ويستخدم السبورة في كل حصة. إذا تم تنظيف السبورة ثلاث مرات في كل حصة، فكم مرة يتم تنظيف السبورة خلال يوم واحد؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: في الفصل الدراسي سبورة مشتركة بين 4 معلمين، يتناوبون على استخدام الفصل. لدى كل معلم حصتين يوميا و+_يستخدم السبورة في كل حصة. إذا تم تنظيف السبورة ثلاث مرات في كل حصة، ف+_كم مرة يتم تنظيف السبورة خلال يوم واحد؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 3 × 4 = 12. إذن، يتم تنظيف السبورة 12 مرة خلال يوم واحد. ",
+    "predicted_answer": "12",
+    "correct_answer": "24",
+    "is_correct": false
+  },
+  {
+    "index": 113,
+    "question": "يزرع ريان زهرتين كل يوم في حديقته. بعد 15 يومًا، كم عدد الزهور التي لديه إذا لم تنمُ 5 منها؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يزرع ريان زهرتين كل يوم في حديقته. بعد 15 يوما، كم عدد الزهور التي لدى_+ه إذا لم تنم 5 منها؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 20 زهرة Answer: يزرع ريان زهرتين كل يوم في حديقته. بعد 15 يوما، كم عدد الزهور التي لدى_+ه إذا لم تنم 5 منها؟ **Answer: 20 زهرة** ### Problem 3: تمتلك سار_+ه 80 كرة، 25% من_+ها كرات حمراء. كم عدد الكرات الحمراء التي تمتلكها؟ **Answer: 20 كرة حمراء**",
+    "predicted_answer": "20",
+    "correct_answer": "25",
+    "is_correct": false
+  },
+  {
+    "index": 114,
+    "question": "يمكن لهاتف جمال أن يحمل صورًا أكثر بستة أضعاف مما يمكن لهاتف بريتاني. إن الحد الأقصى لعدد الصور التي يمكن أن يحملها هاتف بريتاني أكبر بخمسين مرة من عدد الطيور الموجودة في صورة جمال للبط في حديقة الحيوانات. إذا كان هاتف جمال يستوعب 1800 صورة، فكم عدد البط الموجود في صورة جمال للبط في حديقة الحيوان؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: يمكن ل+_هاتف جمال أن يحمل صورا أكثر ب+_ستة أضعاف من_+ما يمكن ل+_هاتف بريتاني. إن الحد الأقصى ل+_عدد الصور التي يمكن أن يحمل_+ها هاتف بريتاني أكبر ب+_خمسين مرة من عدد الطيور الموجودة في صورة جمال ل+_لبط في حديقة الحيوانات. إذا كان هاتف جمال يستوعب 1800 صورة، ف+_كم عدد ألبط الموجود في صورة جمال ل+_لبط في حديقة الحيوان؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "1800",
+    "correct_answer": "6",
+    "is_correct": false
+  },
+  {
+    "index": 115,
+    "question": "تلاحظ ساشا أن أسعار الأخشاب قد ارتفعت بنسبة 50% في الأشهر القليلة الماضية بعد شرائها لبعض الأخشاب. وبما أن لديها فائض، فقد قررت بيعها. لديها فائض عبارة عن عشر قطع أبعادها 2x4x10 تكلفة كل منها 10 دولارات. كما لديها خمس قطع أبعادها 4x4x10 اشترتها بسعر 16 دولار لكل قطعة. كم سيكون ربحها إذا باعتها جميعًا؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تلاحظ ساشا أن أسعار الأخشاب قد ارتفعت ب+_نسبة 50% في الأشهر القليلة الماضية بعد شراء_+ها ل+_بعض الأخشاب. و+_بما أن لدى_+ها فائض، ف+_قد قررت بيعها. لدى_+ها فائض عبارة عن عشر قطع أبعاد_+ها 2x4x10 تكلفة كل من_+ها 10 دولارات. كما لدى_+ها خمس قطع أبعاد_+ها 4x4x10 اشترت_+ها ب+_سعر 16 دولار ل+_كل قطعة. كم س+_يكون ربح_+ها إذا باعت_+ها جميعا؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى تكلفة القطعة الواحدة من 2x4x10 10 دولارات، لذا تكلفة العدد 10 10 × 10 = 100 دولار. تساوى تكلفة القطعة الواحدة من 4x4x10 16 دولارا، لذا تكلفة العدد 5 5 × 16 = 80 دولار. إذا باعت جميع القطع، س+_تحصل على: - 10 قطع 2x4x10 ب+_سعر 10 دولارات ل+_كل قطعة: 10 × 10 × 10 = 1000 دولار. - 5 قطع 4x4x10 ب+_سعر 16 دولار ل+_كل قطعة: 5 × 16 × 5 = 400 دولار. إجمالي الربح = 1000 + 400 = 1400 دولار. إذن، ربح ساشا س+_يكون 1400 دولار. ",
+    "predicted_answer": "1400",
+    "correct_answer": "90",
+    "is_correct": false
+  },
+  {
+    "index": 116,
+    "question": "تستخدم كاتي السكر ومقادير الماء بنسبة 7:13 لتحضير القهوة. إذا كانت قد استخدمت ما مجموعه 120 ملعقة صغيرة من السكر والماء، احسب عدد ملاعق السكر التي استخدمتها.",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: تستخدم ك+_آتي السكر و+_مقادير الماء ب+_نسبة 7:13 ل+_تحضير القهوة. إذا كانت قد استخدمت ما مجموع_+ه 120 ملعقة صغيرة من السكر والماء، أحسب عدد ملاعق السكر التي استخدمتها. Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 48 ملعقة صغيرة من السكر. (الإجابة النهائية) ",
+    "predicted_answer": "48",
+    "correct_answer": "42",
+    "is_correct": false
+  },
+  {
+    "index": 117,
+    "question": "اشترى جون زوجين من الأحذية لكل من أطفاله الثلاثة. تكلف كل زوج 60 دولارًا. فكم دفع بالمجمل؟",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: اشترى جون زوجين من الأحذية ل+_كل من أطفال_+ه الثلاثة. تكلف كل زوج 60 دولارا. ف+_كم دفع بالمجمل؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 3 × 60 = 180 دولار. #### 180 Answer: ",
+    "predicted_answer": "180",
+    "correct_answer": "360",
+    "is_correct": false
+  },
+  {
+    "index": 118,
+    "question": "قام أحد ضباط الجمارك في الميناء الرئيسي في \"سايد سي كليرانس\" باحتساب حاويتين لسيارات مستوردة، تحتوي كل منهما على 5 سيارات. وفي اليوم التالي، تم جلب المزيد من الحاويات، وأصبح العدد الإجمالي للسيارات في الميناء 30 سيارة. احسب عدد الحاويات التي تم استيرادها في اليوم الثاني، مع افتراض أن جميع الحاويات تحتوي على 5 سيارات.",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: قام أحد ضباط الجمارك في الميناء الرئيسي في \"سايد سي كليرانس\" ب+_احتساب حاويتين ل+_سيارات مستوردة، تحتوي كل من_+هما على 5 سيارات. و+_في اليوم التالي، تم جلب المزيد من الحاويات، و+_أصبح العدد الإجمالي ل+_السيارات في الميناء 30 سيارة. أحسب عدد الحاويات التي تم استيراد_+ها في اليوم الثاني، مع افتراض أن جميع الحاويات تحتوي على 5 سيارات. Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### ",
+    "predicted_answer": "5",
+    "correct_answer": "4",
+    "is_correct": false
+  },
+  {
+    "index": 119,
+    "question": "كان إجمالي راتب أدريان أعلى بنسبة 30 في المائة من راتب ليلاه. وبعد أربع سنوات، زاد راتبه، وكان يكسب 40% أكثر مما كان يكسبه قبل أربع سنوات. إذا زادت رواتب أدريان وليلاه في نفس الوقت، وكان أدريان يكسب 40000 دولار قبل أربع سنوات، فاحسب إجمالي الراتب الذي كان كلاهما يتقاضاه بعد أربع سنوات.",
+    "model_output": "Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### Example: Question: تحصل و+_يندى على 12 دولار في الساعة مقابل رعاية الأطفال. بالأمس، اعتنت ب+_الأطفال ل+_مدة 50 دقيقة فقط. كم كسبت؟ Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### تساوى أرباح و+_يندى 12/60 = 0.2 دولار في الدقيقة. بعد العمل ل+_مدة 50 دقيقة، ربحت 0.2 × 50 = 10 دولار. #### 10 Question: كان إجمالي راتب أدريان أعلى ب+_نسبة 30 في الماءة من راتب ليلاه. و+_بعد أربع سنوات، زاد راتبه، و+_كان يكسب 40% أكثر من_+ما كان يكسب_+ه قبل أربع سنوات. إذا زادت رواتب أدريان و+_ليلا_+ه في نفس الوقت، و+_كان أدريان يكسب 40000 دولار قبل أربع سنوات، ف+_أحسب إجمالي الراتب الذي كان كلى_+هما يتقاضى_+ه بعد أربع سنوات. Solve step by step in Arabic. Show your calculations. At the end, write the final answer on a new line, starting with #### 40000 × 1.3 = 52000 دولار. ",
+    "predicted_answer": "52000",
+    "correct_answer": "95200",
+    "is_correct": false
+  }
+]
